@@ -55,14 +55,14 @@ template: docs
 
 : 질병의 초기에는 뚜렷한 염증소견과 혈관손상에 따른 혈관병증을 보이고, 점차 자가면역의 활성화에 따른 피부와 전신 장기 (lung, GI tract, heart, kidney)의 섬유화가 진행하는 질환
 
-1. Localized scleroderma : 섬유화가 피부와 피하조직에만 국한된 형태
+- Localized scleroderma : 섬유화가 피부와 피하조직에만 국한된 형태
     - Morphea (반상 국한 피부경화증)
     - Linear (선 피부경화증) - en coup de sabre
-2. Systemic sclerosis : 섬유화가 피부 및 전신장기를 침범함
-    1. limited cutaneous SSc : 피부 침범이 팔꿈치와 무릎의 원위부까지만 일어남
-    2. diffuse cutaneous SSc : 그 보다 더 몸통 부위까지 확장.
-    3. Systemic sclerosis sine scleroderma : 피부 침범(-), 자가항체 (+), 내부장기 침범 (+)
-    4. SSc overlap syndrome : polyarthritis, myositis, sicca complex, hypothyroidism, PBC, MCTD
+- Systemic sclerosis : 섬유화가 피부 및 전신장기를 침범함
+    - limited cutaneous SSc : 피부 침범이 팔꿈치와 무릎의 원위부까지만 일어남
+    - diffuse cutaneous SSc : 그 보다 더 몸통 부위까지 확장.
+    - Systemic sclerosis sine scleroderma : 피부 침범(-), 자가항체 (+), 내부장기 침범 (+)
+    - SSc overlap syndrome : polyarthritis, myositis, sicca complex, hypothyroidism, PBC, MCTD
     
 
 ** RP + Abnormal NFC만 있는 경우에는 UCTD로 일단 생각하는데, 이 환자군의 약 20% 정도가 2~4년 후에 SSc가 발병한다.
