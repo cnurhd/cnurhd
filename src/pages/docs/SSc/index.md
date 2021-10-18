@@ -27,6 +27,8 @@ template: docs
 
 ## 1. Historical Perspective
 
+***
+
 (1847) Gintrac : Sclerodermie 용어 사용. (현재 기준으로 볼 때 가장 SSc에 가장 합당한 첫 case) 
 
 (1860) Maurice Raynaud : RP 발표 (Sclerodermie and cold-induced "asphyxie locale")
