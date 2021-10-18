@@ -698,3 +698,7 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  asdf:
+    type: page
+    label: asdf
+    layout: asdf
