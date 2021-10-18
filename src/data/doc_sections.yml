@@ -1,7 +1,7 @@
 root_docs_path: /docs
 sections:
   - test_med
-  - about
+  - ra
   - getting-started
   - ui-components
   - manage-content
