@@ -3,7 +3,7 @@
     "header": {
         "title": "CNUH.Rheumatology",
         "logo_img_alt": "CNUH.Rheumatology",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
