@@ -64,4 +64,7 @@ template: docs
 - 1시간 이상의 조조강직 (Morning stiffness)
 
 ### 관절 외 초기증상
+- General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
+
+### 관절증상
 - 
