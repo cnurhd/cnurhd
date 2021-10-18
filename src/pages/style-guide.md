@@ -34,35 +34,27 @@ seo:
       relativeUrl: true
 template: page
 ---
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+이 사이트의 문서는 기본적으로 markdown으로 작성되었고, image는 되도록 SVG file을 사용하며, table은 markdown 또는 HTML을 이용하여 작성하였습니다.
 
 # This is an H1
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
 ## This is an H2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
 ### This is an H3
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
 #### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
 
 ## Quoting
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+인용문은 다음과 같이 삽입됩니다.
 
 > Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
 
-Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+
 
 <hr />
 
-## Unordered Lists
+## Unordered Lists (번호가 없는 목록)
 
 *   Donec non tortor in arcu mollis feugiat
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -70,7 +62,7 @@ Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar
 *   Vivamus convallis urna id felis
 *   Nulla porta tempus sapien
 
-## Ordered Lists
+## Ordered Lists (번호가 있는 목록)
 
 1.  Donec non tortor in arcu mollis feugiat
 2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
