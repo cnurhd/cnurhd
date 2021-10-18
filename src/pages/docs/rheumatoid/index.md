@@ -75,3 +75,11 @@ template: docs
 6.  손목, 팔꿈치, 어깨 관절, 발/발목 관절, 무릎관절, 고관절도 침범
 
 ### 관절 외 전신증상
+1.  전신증상 : 전신통증, 뻣뻣함, 미열, 체중감소, 피로감, 우울감
+2.  골감소증 : osteoporotic fracture & hip fracture
+3.  근육침범 : synovitis, myositis, vasculitis, drug-induced myopathy
+4.  피부침범 : rheumatoid nodule (elbow), skin ulcer
+5.  안구침범 : 상공막염, 공막염, ulcerative keratitis, keratoconjunctivitis sicca (10~20%)
+6.  호흡기계 : Interstitial pneumonitis (UIP, NIP), organizing pneumonia (OP, BOOP, COP), Caplan's syndrome (pneumoconiosis + multiple peripheral basilar nodule), pleuritis (RA or MTX or Leflunomide)
+7.  순환기계 : myocarditis, myositis, CAD 등
+
