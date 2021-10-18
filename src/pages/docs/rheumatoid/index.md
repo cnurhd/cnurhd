@@ -13,7 +13,7 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: This is the RA manual page
       keyName: property
     - name: 'twitter:card'
       value: summary
