@@ -63,7 +63,7 @@ template: docs
 - 단관절의 반복적 or 이동성 관절침범 (Recurrent & migratory) : 수시간~수일 동안 증상이 있다가 소실 후 수개월 후 비슷한 증상이 재발하는 재발류마티즘 (palindromic rheumatism)도 발생
 - 1시간 이상의 조조강직 (Morning stiffness)
 
-### 관절 외 초기증상
+### Early manifestation of extra-articular
 - General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 
 ### 관절증상
