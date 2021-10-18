@@ -93,23 +93,6 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_content
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
