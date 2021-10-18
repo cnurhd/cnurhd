@@ -113,7 +113,7 @@ template: docs
 
 ### 4-3. 분류기준
 
-####  1987 ACR RA classification criteria
+#### 1987 ACR RA classification criteria
     
     → 다소 진행된 형태의 RA를 진단할 때 유용함. 
     
