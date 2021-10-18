@@ -64,3 +64,4 @@ template: docs
 - 1시간 이상의 조조강직 (Morning stiffness)
 
 ### 관절 외 초기증상
+- 
