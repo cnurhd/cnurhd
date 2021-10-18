@@ -82,4 +82,7 @@ template: docs
 5.  안구침범 : 상공막염, 공막염, ulcerative keratitis, keratoconjunctivitis sicca (10~20%)
 6.  호흡기계 : Interstitial pneumonitis (UIP, NIP), organizing pneumonia (OP, BOOP, COP), Caplan's syndrome (pneumoconiosis + multiple peripheral basilar nodule), pleuritis (RA or MTX or Leflunomide)
 7.  순환기계 : myocarditis, myositis, CAD 등
-
+8.  혈관질환 : 주로 small ~ medium sized vessel : PAN과 유사한 양상
+9.  신장질환 : Focal GN, MN
+10. 신경계 : compressive myelopathy, mononeuritis multiplex
+11. 혈액계 : Felty's syndrome (neutropenia, thrombocytopenia, splenomegaly), ACD, DLBCL
