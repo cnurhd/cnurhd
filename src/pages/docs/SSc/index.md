@@ -112,6 +112,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
     6. MS : CTS, Multiple arthritis, Tendon friction rub, acrolysis
     7. etc. : erectile dysfunction, dyspareunia
     
+<br>
 
 ## 6. 검사소견과 진단
 
