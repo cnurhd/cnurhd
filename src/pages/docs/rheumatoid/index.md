@@ -66,7 +66,7 @@ template: docs
 ### Early manifestation of extra-articular
 - General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 
-### 관절증상
+### Joint sx.
 1. Wrist, MCP, MTP, PIP를 주로 침범, C1~2를 제외한 C-spine involve는 없다.
 2.  초기의 중요한 소견은 involved joint의 tenderness & sweling
 3.  Atlantoaxial joint, AC joint, SC joint, TMJ, Cricoarytenoid joint도 involve
