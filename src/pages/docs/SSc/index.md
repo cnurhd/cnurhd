@@ -103,6 +103,8 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 
 ## 5. 임상증상
 
+***
+
 1. 주증상
     1. Skin thickening & organ involvement : diffuse type이 더 빠르게 진행하고 내부 장기 침범도 더 심하다.
         1. 염증/부종기 -> 진행성 피부 섬유화 -> 피부 위축/구축
