@@ -153,4 +153,7 @@ template: docs
 <br>
 
 ## 6. 경과와 예후
+
+***
+
 <br>
