@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: This is the RA manual page
 template: docs
 ---
 
