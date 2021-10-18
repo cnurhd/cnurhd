@@ -174,6 +174,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
     6. Skin/MS : MTX, NSAIDs
 
 <br>
+
 ## 8. 경과와 예후
 
 ***
