@@ -127,6 +127,8 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 
 ## 6. 검사소견과 진단
 
+***
+
 ### 1. 혈액검사
 
 1. Routine lab + ANA
