@@ -144,6 +144,8 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 
 1. NSF, eosinophilic fasciitis, scleredema, scleremyxedema
 
+<br>
+
 ## 7. 치료원칙
 
 1. 요약
