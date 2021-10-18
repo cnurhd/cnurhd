@@ -1,6 +1,6 @@
 ---
 title: Style Guide
-subtitle: The style guide provides you with a blueprint of default post and page styles.
+subtitle: '이 사이트에 작성된 문서의 스타일입니다. '
 image: images/5.jpg
 seo:
   title: Theme Style Guide
