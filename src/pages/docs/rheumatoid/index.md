@@ -119,8 +119,7 @@ template: docs
     
     → 다소 진행된 형태의 RA를 진단할 때 유용함. 
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c35c7dd0-b5da-4921-abf1-3d7ddb9150ac/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c35c7dd0-b5da-4921-abf1-3d7ddb9150ac/Untitled.png)
-    
+   
 - 2010 ACR/EULAR RA classification criteria
 
    → DIPs, CMCs, 1st MTP는 평가에서 제외한다. 
