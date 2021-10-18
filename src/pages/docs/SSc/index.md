@@ -75,6 +75,8 @@ template: docs
 
 ## 3. 역학 및 발병 인자
 
+***
+
 1. 주로 40대 (35~50세), M:F = 1:9. 25세 이전 발병은 드물다.
 2. 발병률 : 백만명 당 13.9~21명, 유병률 : 백만명 당 276명. Diffuse < limited
 3. 초기에 RP, Abnormal NFC, Antoantibodies가 있을 때 더 잘 진행하는 경향.
