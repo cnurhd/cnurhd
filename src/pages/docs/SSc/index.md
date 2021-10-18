@@ -177,6 +177,8 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 <br>
 ## 8. 경과와 예후
 
+***
+
 사망률은 **subtype, 내부 장기 침범 정도, 동반 질환에 의해 영향**을 받는다.
 
 1. dcSSc가 lcSSc보다 예후가 더 나쁘다. (사망까지 median 7.1년 : 15.0년)
