@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Front
     type: section_hero
     title: Welcome
     image: images/5.jpg
