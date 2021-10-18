@@ -90,6 +90,8 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 4. 면역기능장애
 5. 섬유화 : 섬유모세포/근섬유모세포가 과도하게 형성 -> collagen과 같은 extracellular matrix가 과도하게 침착.
 
+<br>
+
 ## 5. 임상증상
 
 1. 주증상
