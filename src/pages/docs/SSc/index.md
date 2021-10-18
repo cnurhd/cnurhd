@@ -90,7 +90,6 @@ template: docs
 ***
 
 콜라겐의 침착 + 혈관의 이상 + 염증 세포의 침윤
-
 Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular fibrosis
 
 1. 유전적 요인 : HLA-DPB1 * 0901, HLA-DPB1 * 1301
