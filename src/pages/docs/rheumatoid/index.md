@@ -26,8 +26,6 @@ template: docs
 
 류마티스관절염은 항CCP항체와 같은 자가항체를 동반하는 자가면역질환으로 관절손상이 일어나는 대표적인 근골격계 만성 염증성 면역 질환이다.
 
-
-
 ## 1. 역학 및 발병 인자
 
 ***
@@ -82,7 +80,7 @@ template: docs
 5.  Ulnar drift, swan neck, Boutonniere deformities, Digital infarction (d/t vasculitis), radial drift
 6.  손목, 팔꿈치, 어깨 관절, 발/발목 관절, 무릎관절, 고관절도 침범
 
-### 3-4. Extra-articular sx.
+### 3-4. 관절 외 증상
 
 1.  전신증상 : 전신통증, 뻣뻣함, 미열, 체중감소, 피로감, 우울감
 2.  골감소증 : osteoporotic fracture & hip fracture
@@ -95,4 +93,3 @@ template: docs
 9.  신장질환 : Focal GN, MN
 10. 신경계 : compressive myelopathy, mononeuritis multiplex
 11. 혈액계 : Felty's syndrome (neutropenia, thrombocytopenia, splenomegaly), ACD, DLBCL
-
