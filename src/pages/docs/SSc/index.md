@@ -159,6 +159,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
     5. GI tract : PPI, cyclic broad-spectrum antibiotics
     6. Skin/MS : MTX, NSAIDs
 
+<br>
 ## 8. 경과와 예후
 
 사망률은 **subtype, 내부 장기 침범 정도, 동반 질환에 의해 영향**을 받는다.
