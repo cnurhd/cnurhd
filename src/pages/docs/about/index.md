@@ -24,11 +24,11 @@ seo:
       value: This is the about page
 template: docs
 ---
-## 1. 역학 및 발병 인자&#xA;&#xA;
-
-### 서론
-
 류마티스관절염은 항CCP항체와 같은 자가항체를 동반하는 자가면역질환으로 관절손상이 일어나는 대표적인 근골격계 만성 염증성 면역 질환이다.
+
+
+
+## 1. 역학 및 발병 인자&#xA;
 
 ### 역학
 
@@ -138,8 +138,6 @@ General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 
     → 조기에 분류(진단)해서 관절파괴가 일어나기 전에 적절히 치료해서 치료 성과를 높이려는 목적임
 
-
-
 ### 4. 감별진단
 
 1.  OA : DIP 침범, Heberden nodule, morning stiffness < 30min, X-ray상 JSN
@@ -158,8 +156,6 @@ General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 
 8.  Infection-associated : Parvovirus, HBV, HCV, Mumps, EBV등
 
-
-
 ## 5. 치료원칙
 
 1.  MTX의 금기가 없다면 MTX를 우선 처방한다.
@@ -172,11 +168,8 @@ General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 
 5.  Prognostic factor (Ab가 high titer이거나, high ds. activity이거나, early joint damage가 있거나, csDMARDs 2개에 fail했는지)를 평가한다.
 
-
     1.  Prognostic factor가 있다면 bDMARD 또는 JAK-I를 추가하고 3~6개월째에 평가한 후, 효과 없으면 바꿔본다.
 
 6.  효과가 있다면 약제를 유지하거나 용량을 감량한다.
-
-
 
 ## 6. 경과와 예후
