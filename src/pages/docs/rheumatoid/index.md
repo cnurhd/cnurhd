@@ -46,3 +46,4 @@ template: docs
 2. 환경적 요인
     - 흡연, 치주염, 장내세균, 감염 (EBV, Parvovirus B19), 여성호르몬, 하루 10잔 이상의 커피소모, 경구피임약 사용, 비만, Low socioeconomical state
 
+** db
