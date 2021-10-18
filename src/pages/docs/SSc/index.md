@@ -67,7 +67,7 @@ template: docs
 
 ** RP + Abnormal NFC만 있는 경우에는 UCTD로 일단 생각하는데, 이 환자군의 약 20% 정도가 2~4년 후에 SSc가 발병한다.
 
-** 
+<br>
 
 ## 3. 역학 및 발병 인자
 
