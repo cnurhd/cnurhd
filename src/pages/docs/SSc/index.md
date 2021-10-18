@@ -138,7 +138,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 1. 대개 피부 경화 발생 수주~수년 전부터 RP 발생.
 2. Giant capillary, hemorrhage, loop & neovascularization
 
-### 3. 분류기준
+### 6-3. 분류기준
 
 1. 2013 ACR/EULAR SSc classification criteria (9점 이상)
 - MCP를 포함하여 proximal로 skin thickening이 진행하면 9점으로 SSc 분류가 가능하다.
