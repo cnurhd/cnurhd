@@ -161,6 +161,8 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 
 ## 7. 치료원칙
 
+***
+
 1. 요약
     
     장기 침범에 따른 대증적인 치료를 한다.
