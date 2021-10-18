@@ -43,7 +43,7 @@ template: docs
 
     *   HLA-related : HLA-DRB1이 가장 위험한 인자 (11% 정도의 유전적 기여) → \*04:05 (동양), \*04:01 (서양), \*09:01 (한국, 일본 등 아시아) → 한국인은 \*04:05와 \*09:01의 강력한 연관관계가 있음.
 
-*   Non-HLA : PADI4, STAT4, PTPN22, TRAF1-C5 등
+    *   Non-HLA : PADI4, STAT4, PTPN22, TRAF1-C5 등
 
 1.  환경적 요인 - 흡연, 치주염, 장내세균, 감염 (EBV, Parvovirus B19), 여성호르몬, 하루 10잔 이상의 커피소모, 경구피임약 사용, 비만, Low socioeconomical state
 
