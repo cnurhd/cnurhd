@@ -129,9 +129,6 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 ### 3. 분류기준
 
 1. 2013 ACR/EULAR SSc classification criteria (9점 이상)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acbf05f6-6aaf-4549-ac11-eafe611e2fd2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acbf05f6-6aaf-4549-ac11-eafe611e2fd2/Untitled.png)
-
 - MCP를 포함하여 proximal로 skin thickening이 진행하면 9점으로 SSc 분류가 가능하다.
 - Skin thickening이 MCP의 distal에만 국한된다면 나머지 기준을 적용한다.
     - 육안상 Finger skin thickening이나 tip ulcer, telangiectasia, RP가 있는가?
