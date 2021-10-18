@@ -6,6 +6,8 @@ sections:
     title: Welcome
     content: |
       빛고을전남대학교병원 류마티스내과 Manual/Documentation site 입니다.
+
+      현재 작업중입니다.
     actions:
       - label: Get Started
         url: /docs
