@@ -60,7 +60,6 @@ template: docs
 
 ### 관절의 초기증상
 - 수주 ~ 수개월에 걸쳐 서서히 나타나는 여러 관절의 tenderness, stiffness, swelling
+- 단관절의 반복적 or 이동성 관절침범 (Recurrent & migratory) : 수시간~수일 동안 증상이 있다가 소실 후 수개월 후 비슷한 증상이 재발하는 재발류마티즘 (palindromic rheumatism)도 발생
+- 1시간 이상의 조조강직 (Morning stiffness)
 
-단관절의 반복적 or 이동성 관절침범 (Recurrent & migratory) : 수시간~수일 동안 증상이 있다가 소실 후 수개월 후 비슷한 증상이 재발하는 재발류마티즘 (palindromic rheumatism)도 발생
-
-1시간 이상의 조조강직 (Morning stiffness)
