@@ -1,5 +1,5 @@
 ---
-title: Crystalolpathy
+title: Other diseases
 excerpt: >-
   We'd love it if you participate in the Libris community. Find out how to get
   connected.
