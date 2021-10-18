@@ -178,8 +178,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
-        type: string
     labelField: title
   advanced:
     type: page
