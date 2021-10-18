@@ -77,8 +77,9 @@ template: docs
 
 ** 발생률 및 유병률은 인종/민족에 따라 다르다. 상대적으로 아시아와 유럽은 낮은 편이고, Choctaw 아메리카 원주민이 가장 높은 유병률을 보이며 African-American이 White보다 발병률도 높고 임상 양상도 더 심하다.
 
-## 4. 병인기전
+<br>
 
+## 4. 병인기전
 콜라겐의 침착 + 혈관의 이상 + 염증 세포의 침윤
 
 Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular fibrosis
