@@ -126,7 +126,6 @@ template: docs
 
    → 조기에 분류(진단)해서 관절파괴가 일어나기 전에 적절히 치료해서 치료 성과를 높이려는 목적임
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ffd87e2-7c49-4f7a-8ccd-1ba020c871da/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ffd87e2-7c49-4f7a-8ccd-1ba020c871da/Untitled.png)
 
 ### 4. 감별진단
 
