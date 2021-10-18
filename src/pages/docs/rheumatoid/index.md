@@ -134,6 +134,8 @@ template: docs
 7. Crystalopathies : uric acid level, medication, attack 양상 등
 8. Infection-associated : Parvovirus, HBV, HCV, Mumps, EBV등
 
+<br>
+
 ## 5. 치료원칙
 
 1. MTX의 금기가 없다면 MTX를 우선 처방한다.
