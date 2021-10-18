@@ -66,7 +66,7 @@ template: docs
 ### 3-2. 조기 관절 외 증상
 - General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 
-### Joint sx.
+### 1-3. 관절증상
 1. Wrist, MCP, MTP, PIP를 주로 침범, C1~2를 제외한 C-spine involve는 없다.
 2.  초기의 중요한 소견은 involved joint의 tenderness & sweling
 3.  Atlantoaxial joint, AC joint, SC joint, TMJ, Cricoarytenoid joint도 involve
