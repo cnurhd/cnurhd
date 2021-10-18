@@ -52,7 +52,8 @@
                 "url": "https://github.com/",
                 "style": "primary",
                 "has_subnav": false,
-                "icon_class": "github"
+                "icon_class": "github",
+                "new_window": true
             }
         ]
     },
