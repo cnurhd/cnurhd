@@ -74,7 +74,7 @@ template: docs
 5.  Ulnar drift, swan neck, Boutonniere deformities, Digital infarction (d/t vasculitis), radial drift
 6.  손목, 팔꿈치, 어깨 관절, 발/발목 관절, 무릎관절, 고관절도 침범
 
-### Extra-articular sx.
+### 1-4. Extra-articular sx.
 1.  전신증상 : 전신통증, 뻣뻣함, 미열, 체중감소, 피로감, 우울감
 2.  골감소증 : osteoporotic fracture & hip fracture
 3.  근육침범 : synovitis, myositis, vasculitis, drug-induced myopathy
