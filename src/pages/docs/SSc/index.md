@@ -57,7 +57,7 @@ template: docs
 
 ***
 
-: 질병의 초기에는 뚜렷한 염증소견과 혈관손상에 따른 혈관병증을 보이고, 점차 자가면역의 활성화에 따른 피부와 전신 장기 (lung, GI tract, heart, kidney)의 섬유화가 진행하는 질환
+질병의 초기에는 뚜렷한 염증소견과 혈관손상에 따른 혈관병증을 보이고, 점차 자가면역의 활성화에 따른 피부와 전신 장기 (lung, GI tract, heart, kidney)의 섬유화가 진행하는 질환
 
 - Localized scleroderma : 섬유화가 피부와 피하조직에만 국한된 형태
     - Morphea (반상 국한 피부경화증)
