@@ -109,6 +109,7 @@ General ache, stiffness, CTS, BW loss, depression, fatigue, etc.
 11. 혈액계 : Felty's syndrome (neutropenia, thrombocytopenia, splenomegaly), ACD, DLBCL
 
 ## 4. 검사소견과 진단
+<Br>
 
 ### 1. 혈액검사
 
