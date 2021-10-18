@@ -99,6 +99,8 @@ template: docs
 
 ## 4. 검사소견과 진단
 
+
+
 ### 4-1. 혈액검사
 
 - RF : 정상인의 5%에서 양성, 65세 이상일 때 10~15%에서 양성, 고역가일 때 extra-articular manifestation 많아 예후 예측에 도움이 된다.
