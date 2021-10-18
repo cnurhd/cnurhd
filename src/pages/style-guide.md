@@ -34,6 +34,8 @@ seo:
       relativeUrl: true
 template: page
 ---
+**This is paragraph. 작성된 문단이 이렇게 보입니다.**
+
 이 사이트의 문서는 기본적으로 markdown으로 작성되었고, image는 되도록 SVG file을 사용하며, table은 markdown 또는 HTML을 이용하여 작성하였습니다.
 
 # This is an H1
@@ -49,8 +51,6 @@ template: page
 인용문은 다음과 같이 삽입됩니다.
 
 > Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. - Scott Adams
-
-
 
 <hr />
 
