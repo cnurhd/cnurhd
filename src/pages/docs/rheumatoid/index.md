@@ -144,5 +144,7 @@ template: docs
     1. Prognostic factor가 있다면 bDMARD 또는 JAK-I를 추가하고 3~6개월째에 평가한 후, 효과 없으면 바꿔본다.
 6. 효과가 있다면 약제를 유지하거나 용량을 감량한다.
 
+<br>
+
 ## 6. 경과와 예후
 <br>
