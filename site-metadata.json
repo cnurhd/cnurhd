@@ -22,14 +22,6 @@
                 "url": "/style-guide",
                 "style": "link",
                 "has_subnav": false
-            },
-            {
-                "label": "Github",
-                "url": "https://github.com/",
-                "style": "primary",
-                "has_subnav": false,
-                "icon_class": "github",
-                "new_window": false
             }
         ]
     },
