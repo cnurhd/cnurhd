@@ -25,56 +25,6 @@ seo:
 template: docs
 ---
 
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-</pre>
-
-The rendered output looks like this:
-
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-
-## Callouts
-
-There are two types of callouts available in this theme, **important** and **note**.
-
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
-
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note or tip.
 </div>
 
 ## Tables
