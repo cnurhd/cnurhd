@@ -1,11 +1,10 @@
 ---
 title: Rheumatoid Arthritis
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  류마티스관절염 메뉴얼
 seo:
-  title: About
-  description: This is the about page
+  title: Rheumatoid Arthritis
+  description: This is the RA manual page
   extra:
     - name: 'og:type'
       value: website
