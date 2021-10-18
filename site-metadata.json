@@ -82,16 +82,7 @@
                 "new_window": true
             }
         ],
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "title": "Stackbit Libris Theme",
     "domain": "https://cnurhd-cb871.netlify.app"
