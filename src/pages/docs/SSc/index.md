@@ -53,11 +53,9 @@ template: docs
 
 <br>
 
-## 2. 정의 및 분류
+## 2. 분류
 
 ***
-
-
 
 - Localized scleroderma : 섬유화가 피부와 피하조직에만 국한된 형태
     - Morphea (반상 국한 피부경화증)
