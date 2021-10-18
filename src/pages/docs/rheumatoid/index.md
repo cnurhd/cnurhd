@@ -140,6 +140,8 @@ template: docs
 
 ## 5. 치료원칙
 
+***
+
 1. MTX의 금기가 없다면 MTX를 우선 처방한다.
 2. MTX 금기가 있다면 leflunomide나 SSZ를 처방한다.
 3. short term GC를 추가해 볼 수도 있다.
