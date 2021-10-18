@@ -1,6 +1,6 @@
 ---
 title: Style Guide
-subtitle: '이 사이트에 작성된 문서의 스타일입니다. '
+subtitle: 이 사이트에 작성된 문서의 스타일입니다. 참고하시면 도움이 됩니다.
 image: images/5.jpg
 seo:
   title: Theme Style Guide
