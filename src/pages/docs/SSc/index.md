@@ -152,7 +152,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 
 ** SSc sine scleroderma 처럼 skin lesion이 없는 internal organ involvement도 있으므로 만약 자가항체가 양성일 경우엔 증상이 아주 저명하지 않더라도 (e.g. RP + NFC (+)만 있는 경우) 치료 시작을 권유하기도 한다.
 
-### 4. 감별진단
+### 6-4. 감별진단
 
 1. NSF, eosinophilic fasciitis, scleredema, scleremyxedema
 
