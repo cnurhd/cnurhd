@@ -1,5 +1,6 @@
 root_docs_path: /docs
 sections:
+  - test_med
   - about
   - getting-started
   - ui-components
@@ -8,3 +9,6 @@ sections:
   - faq
   - community
   - crystalopathy
+  - pain
+  - other_diseases
+  - misc
