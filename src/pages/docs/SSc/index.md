@@ -88,6 +88,7 @@ template: docs
 ## 4. 병인기전
 
 ***
+
 콜라겐의 침착 + 혈관의 이상 + 염증 세포의 침윤
 
 Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular fibrosis
