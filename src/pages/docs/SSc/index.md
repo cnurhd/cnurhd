@@ -102,6 +102,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
     2. Raynaud’s phenomenon : 가장 먼저 나타나는 증상. 추위나 stress가 있을 때 pallor -> cyanosis -> rubor + 증상이 있는 것.
         1. 일차성 : 저온에 대한 과한 생리적 반응. 혈관 구조 변화는 없으므로 조직 손상으로 진행하지 않음.
         2. 이차성 : 혈관 구조 변화에 따른 허혈과 조직 손상 -> pitting, ulcer, necrosis, autoamputation
+<br><br>
 2. 이외 증상
     1. Lung : ILD -> HRCT + PFT + KL-6 / PAH -> 2DE + RHC + NT-proBNP / Lung cancer
     2. Heart : pericardial effusion, pericarditis, constrictive pericarditis, conduction 장애, MI 등
