@@ -58,6 +58,11 @@
   border-left: 5px solid $red;
 }
 
+.comment {
+  background: $blue-pale;
+  border-left: 5px solid $blue;
+}
+
 // Background gradients
 .has-gradient {
   background: $color-primary;
