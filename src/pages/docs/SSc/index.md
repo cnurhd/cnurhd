@@ -133,7 +133,7 @@ Diffuse microangiopathy + inflammation and autoimmunity + viscelral and vascular
 1. Routine lab + ANA
 2. Anticentromere Ab., Anti-topoisomerase I Ab, Anti-RNA pol.III Ab.
 
-### 2. 손톱주름 모세혈관경 검사 (NFC)
+### 6-2. 손톱주름 모세혈관경 검사 (NFC)
 
 1. 대개 피부 경화 발생 수주~수년 전부터 RP 발생.
 2. Giant capillary, hemorrhage, loop & neovascularization
