@@ -105,7 +105,7 @@ template: docs
 - Anti-CCP : RA에 특이적, 질환 발병 수년 전부터 양성으로 나옴, 양성일 때 관절 파괴가 더 많이 진행, 흡연과 고역가가 연관이 있음.
 - CRP, ESR : 예후와 연관, 지속적 상승은 질병의 지속적인 진행으로 인한 방사선적 진행과 상관관계 있음.
 
-### 2. 방사선검사
+### 4-2. 방사선검사
 
 - X-ray : 대칭적인 관절 침범 및 미란 (Hand → foot → knee → hip → neck → shoulder → elbow), 주로 MCP, PIP에서 잘 보임.
 - MSUS : 초기에 2nd MCP, 5th MTP에서 erosion이 잘 발견됨
