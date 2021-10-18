@@ -97,3 +97,59 @@ template: docs
 10. 신경계 : compressive myelopathy, mononeuritis multiplex
 11. 혈액계 : Felty's syndrome (neutropenia, thrombocytopenia, splenomegaly), ACD, DLBCL
 
+<br>
+
+## 4. 검사소견과 진단
+
+### 1. 혈액검사
+
+- RF : 정상인의 5%에서 양성, 65세 이상일 때 10~15%에서 양성, 고역가일 때 extra-articular manifestation 많아 예후 예측에 도움이 된다.
+- Anti-CCP : RA에 특이적, 질환 발병 수년 전부터 양성으로 나옴, 양성일 때 관절 파괴가 더 많이 진행, 흡연과 고역가가 연관이 있음.
+- CRP, ESR : 예후와 연관, 지속적 상승은 질병의 지속적인 진행으로 인한 방사선적 진행과 상관관계 있음.
+
+### 2. 방사선검사
+
+- X-ray : 대칭적인 관절 침범 및 미란 (Hand → foot → knee → hip → neck → shoulder → elbow), 주로 MCP, PIP에서 잘 보임.
+- MSUS : 초기에 2nd MCP, 5th MTP에서 erosion이 잘 발견됨
+- MRI 도 있지만 잘 안찍는다.
+
+### 3. 분류기준
+
+- 1987 ACR RA classification criteria
+    
+    → 다소 진행된 형태의 RA를 진단할 때 유용함. 
+    
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c35c7dd0-b5da-4921-abf1-3d7ddb9150ac/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c35c7dd0-b5da-4921-abf1-3d7ddb9150ac/Untitled.png)
+    
+- 2010 ACR/EULAR RA classification criteria
+
+   → DIPs, CMCs, 1st MTP는 평가에서 제외한다. 
+
+   → 조기에 분류(진단)해서 관절파괴가 일어나기 전에 적절히 치료해서 치료 성과를 높이려는 목적임
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ffd87e2-7c49-4f7a-8ccd-1ba020c871da/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ffd87e2-7c49-4f7a-8ccd-1ba020c871da/Untitled.png)
+
+### 4. 감별진단
+
+1. OA : DIP 침범, Heberden nodule, morning stiffness < 30min, X-ray상 JSN
+2. Palindromic rheumatism : migratory arthralgia (Behcet's ds.와도 감별하자)
+3. FMS, Hypermobility syndrome : no arthritis/synovitis, no APR elevation, Tender point 유무
+4. Seronegative RA : 향후 RA로 진행하는지 잘 챙겨보자.
+5. Reactive arhritis : 선행하는 urogenital/enteric invection + Sacroilitis + HLA-B27 (+) 유무, Dactylitis 등
+6. Psoriatic arthritis : 피부병변, 손톱변화, 소시지손가락 (dactylitis), 척추침범, 절단관절염 (arthritis mutilans)
+7. Crystalopathies : uric acid level, medication, attack 양상 등
+8. Infection-associated : Parvovirus, HBV, HCV, Mumps, EBV등
+
+## 5. 치료원칙
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7077dd57-9f8f-4508-9ae3-2f9d0ec46467/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7077dd57-9f8f-4508-9ae3-2f9d0ec46467/Untitled.png)
+
+1. MTX의 금기가 없다면 MTX를 우선 처방한다.
+2. MTX 금기가 있다면 leflunomide나 SSZ를 처방한다.
+3. short term GC를 추가해 볼 수도 있다.
+4. DAS28-CRP를 평가해서 3개월 후에 호전되고 6개월째에 Remission에 도달하는지 확인한다.
+5. Prognostic factor (Ab가 high titer이거나, high ds. activity이거나, early joint damage가 있거나, csDMARDs 2개에 fail했는지)를 평가한다.
+    1. Prognostic factor가 있다면 bDMARD 또는 JAK-I를 추가하고 3~6개월째에 평가한 후, 효과 없으면 바꿔본다.
+6. 효과가 있다면 약제를 유지하거나 용량을 감량한다.
+
+## 6. 경과와 예후
