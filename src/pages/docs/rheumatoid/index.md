@@ -111,7 +111,7 @@ template: docs
 - MSUS : 초기에 2nd MCP, 5th MTP에서 erosion이 잘 발견됨
 - MRI 도 있지만 잘 안찍는다.
 
-### 3. 분류기준
+### 4-3. 분류기준
 
 - 1987 ACR RA classification criteria
     
