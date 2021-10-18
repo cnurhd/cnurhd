@@ -2,7 +2,7 @@ root_docs_path: /docs
 sections:
   - test_med
   - ra
-  - getting-started
+  - sle_aps
   - ui-components
   - manage-content
   - tools
