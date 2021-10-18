@@ -114,14 +114,13 @@ template: docs
 ### 4-3. 분류기준
 
 #### 1987 ACR RA classification criteria
-    
+  
     → 다소 진행된 형태의 RA를 진단할 때 유용함. 
     
    
 #### 2010 ACR/EULAR RA classification criteria
 
    → DIPs, CMCs, 1st MTP는 평가에서 제외한다. 
-
    → 조기에 분류(진단)해서 관절파괴가 일어나기 전에 적절히 치료해서 치료 성과를 높이려는 목적임
 
 
