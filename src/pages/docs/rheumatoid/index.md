@@ -124,7 +124,7 @@ template: docs
    → 조기에 분류(진단)해서 관절파괴가 일어나기 전에 적절히 치료해서 치료 성과를 높이려는 목적임
 
 
-### 4. 감별진단
+### 4-4. 감별진단
 
 1. OA : DIP 침범, Heberden nodule, morning stiffness < 30min, X-ray상 JSN
 2. Palindromic rheumatism : migratory arthralgia (Behcet's ds.와도 감별하자)
