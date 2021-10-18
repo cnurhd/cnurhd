@@ -73,3 +73,5 @@ template: docs
 4.  Hand grip strength의 감소, Trigger finger, CTS 증상도 발생 가능
 5.  Ulnar drift, swan neck, Boutonniere deformities, Digital infarction (d/t vasculitis), radial drift
 6.  손목, 팔꿈치, 어깨 관절, 발/발목 관절, 무릎관절, 고관절도 침범
+
+### 관절 외 전신증상
