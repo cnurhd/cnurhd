@@ -37,6 +37,7 @@ template: docs
 - 발병률 : 100만 명 당 2.18~7.7명
 - 유병률 : 10만 명 당 10~20명
 - Bimordial (<15, 45~54), 남:여 = 1:1.5, malignancy는 DM에서 더 호발하고 남성/연하곤란이 있을 때 암 발병 위험이 높음.
+
 ### 1-2. 분류 (2003, Amato)
 - Polymyositis
 - Dermatomyositis
