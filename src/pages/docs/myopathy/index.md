@@ -24,8 +24,6 @@ seo:
 template: docs
 ---
 
-# Idiopathic Inflammatory Myositis
-
 골격근을 침범하여 근육의 염증과 근력저하를 초래하는 원인 불명의 전신 자가면역질환 <br>
 ** PM (1863) -> DM (1891) -> IBM (1971)
 
