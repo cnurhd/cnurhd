@@ -25,7 +25,7 @@ seo:
 template: docs
 ---
 
-HLA-B27 유전자와의 연관성을 공통적으로 갖고 있는 질환
+HLA-B27 유전자와의 연관성을 공통적으로 갖고 있는 질환<br>
 Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis, uveitis, psoriasis, IBD
 
 
