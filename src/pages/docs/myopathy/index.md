@@ -78,18 +78,23 @@ template: docs
 ### 4-1. 혈액검사
    1. Muscle enzyme : CK, AST, ALT, LDH, Aldolase
    2. 자가항체 : ANA, Anti-Jo, Anti-U1RNP (MSA, MAA)
+
 ### 4-2. 근전도 검사
    1. 일반적으로 비특이적 (Insertional activity 증가, positive sharp waves, fibrilation potentials)
+
 ### 4-3. 조직검사
    1. 근육생검
    2. 피부생검 : 피부 소견이 우세하지만 전형적이지 않은 경우
+
 ### 4-4. 영상검사 & 기타
    1. X-ray, MSUS, CT
    2. MRI : Bx. site 결정, 다른 검사 결과가 정상일 때 질환 악화를 확인할 때, 다른 질환과 감별할 때
    3. PFT, PET-CT, EGD/CFS, NFC
+
 ### 4-5. 분류기준
    1. Bohan-Peter classification criteria (1975)
    2. ENMC classification criteria (2003)
+   
 ### 4-6. 감별진단
    1. Anemia, Viral infection (EBV, HBV, HCV, HIV, TB, Syphilis, Toxocariasis), etc.
 
