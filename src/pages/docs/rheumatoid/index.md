@@ -177,8 +177,8 @@ template: docs
         padding: 15px 25px;
         font-weight: 600;
         color: #bbb;
-        border: 1px solid transparent;}
-        align : 
+        border: 1px solid transparent;
+        align : center
  
     label:hover {
         color: #2e9cdf;
