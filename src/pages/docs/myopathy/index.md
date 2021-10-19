@@ -1,5 +1,5 @@
 ---
-title: Myopathy
+title: Idiopathic Inflammatory Myositis
 excerpt: >-
 
 seo:
