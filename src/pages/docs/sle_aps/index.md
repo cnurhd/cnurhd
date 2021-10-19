@@ -101,9 +101,9 @@ template: docs
    2. Kidney : LN 분류, 다른 질환 감별, 치료, 예후와 관련
 
 ### 4-3. 분류기준
-    1. 1997 revised ACR classification criteria
-    2. 2012 SLICC classification criteria
-    3. 2019 ACR/EULAR classification criteria
+   1. 1997 revised ACR classification criteria
+   2. 2012 SLICC classification criteria
+   3. 2019 ACR/EULAR classification criteria
 
 ### 4-4. 감별진단
 
