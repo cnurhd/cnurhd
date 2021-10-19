@@ -155,7 +155,6 @@ template: docs
 <br>
 
 ***
-
  <style>
  
         .main {
