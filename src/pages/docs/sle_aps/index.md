@@ -112,13 +112,13 @@ template: docs
 ## 5. 치료원칙
 
 ### 5-1. 개념 요약
-    1. 관해 도달 or 낮은 질병활성도 유지가 목표
-    2. 질병활성도 평가가 중요 : 증상, P/E, Lab, Anti-dsDNA, Complement, SLEDAI
-    3. 비약물요법 : 일광차단, 금연, 적절한 영양공급, 운동, 예방접종
-    4. 약물요법 : HCQ, Low dose GC, Immunosuppressant
-    5. 기타 증상에 맞는 치료
-    6. Dyslipidemia, DM, HTN, Osteoporosis 관리, Cancer screening
-    7. 임신 전 Ro/La 평가, 6개월 이상 remission state여야 한다. PRD, AZA, HCQ, ASA는 사용 가능, Congenital heart block 고려
+   1. 관해 도달 or 낮은 질병활성도 유지가 목표
+   2. 질병활성도 평가가 중요 : 증상, P/E, Lab, Anti-dsDNA, Complement, SLEDAI
+   3. 비약물요법 : 일광차단, 금연, 적절한 영양공급, 운동, 예방접종
+   4. 약물요법 : HCQ, Low dose GC, Immunosuppressant
+   5. 기타 증상에 맞는 치료
+   6. Dyslipidemia, DM, HTN, Osteoporosis 관리, Cancer screening
+   7. 임신 전 Ro/La 평가, 6개월 이상 remission state여야 한다. PRD, AZA, HCQ, ASA는 사용 가능, Congenital heart block 고려
 
 ### 5-2. 가이드라인
 
