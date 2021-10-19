@@ -198,9 +198,9 @@ template: docs
  
 <div class="main" style="text-align:left">
     <input id="tab1" type="radio" name="tabs" checked> 
-    <label for="tab1">첫번째 탭</label>
+    <label for="tab1">Eng</label>
     <input id="tab2" type="radio" name="tabs">
-    <label for="tab2">두번째 탭</label>
+    <label for="tab2">한글</label>
      <section id="content1" style="margin-bottom:20px;">
         tab menu1의 내용
     </section>
