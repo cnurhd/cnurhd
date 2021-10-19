@@ -24,14 +24,16 @@ seo:
       value: This is the faq page
 template: docs
 ---
+
 HLA-B27 유전자와의 연관성을 공통적으로 갖고 있는 질환
 Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis, uveitis, psoriasis, IBD
 
 
+## 1. 역학 및 발병 인자
 
-\*\*\*
+***
 
-## 1. 역학 및 발병 인자&#xA;&#xA;1-1. 역학
+1-1. 역학
 
 *   유병률 : HLA-B27의 유병률과 연관된 것으로 보임. RA보다는 유병률이 높다.
 
