@@ -76,9 +76,11 @@ Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis
 
 ### 3-3. 분류기준
 
-
+<br>
 
 ## 4. 감별진단
+
+***
 
 1.  Lumbar sprain : acute onset, 특정 동작에 의해 악화, 휴식하면  경감, 2개월 이내 자연 호전
 
