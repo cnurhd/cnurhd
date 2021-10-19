@@ -156,8 +156,7 @@ template: docs
 
 ***
 <style>
- 
-        .main {
+         .main {
             min-width: 320px;
             max-width: 800px;
             padding: 10px;    
@@ -198,21 +197,17 @@ template: docs
 </style>
  
 <div class="main" style="text-align:left">
- 
     <input id="tab1" type="radio" name="tabs" checked> 
     <label for="tab1">첫번째 탭</label>
- 
     <input id="tab2" type="radio" name="tabs">
     <label for="tab2">두번째 탭</label>
- 
- 
-    <section id="content1" style="margin-bottom:20px;">
+     <section id="content1" style="margin-bottom:20px;">
         tab menu1의 내용
     </section>
- 
-    <section id="content2" style="margin-bottom:20px;">
+     <section id="content2" style="margin-bottom:20px;">
         tab menu2의 내용
     </section>
+</div>
 
 
 <br>
