@@ -89,7 +89,7 @@ template: docs
 ## 4. 검사소견과 진단
 
 ### 4-1. 혈액검사
-    1. CBC : ACD, Hemolytic anemia (direct Coomb’s test), leukopenia (lymphopenia), thrombocytopenia, HUS/TTP
+   1. CBC : ACD, Hemolytic anemia (direct Coomb’s test), leukopenia (lymphopenia), thrombocytopenia, HUS/TTP
     2. Chemistry : routine + CRP (<4~5mg/dl)
     3. U/A : Urine protein 500mg/d or dipstick 3+ or RBC cast
     4. Autoimmune markers : ANA 1:80, Anti-dsDNA, Anti-Sm, APS, etc.
