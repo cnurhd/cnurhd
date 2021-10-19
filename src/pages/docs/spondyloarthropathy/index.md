@@ -92,10 +92,10 @@ Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis
 
 5.  DISH, OCI, Bertolotti's syndrome 등
 
-
+<br>
 
 ## 5. 치료원칙
 
-
+<br>
 
 ## 6. 경과와 예후
