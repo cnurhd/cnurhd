@@ -148,10 +148,10 @@ template: docs
    3. BILD (설문지)
     
 
-## 6. 경과와 예후
+## 1-6. 경과와 예후
 
 
-# Antiphospholipid Syndrome
+# 2. Antiphospholipid Syndrome
 
 ## 1. 역학 및 발병 인자
 
