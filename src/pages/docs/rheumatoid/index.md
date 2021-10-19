@@ -155,7 +155,7 @@ template: docs
 <br>
 
 ***
- <style>
+<style>
  
         .main {
             min-width: 320px;
