@@ -178,7 +178,7 @@ template: docs
         font-weight: 600;
         color: #bbb;
         border: 1px solid transparent;
-        align : center;
+        align : center;}
  
     label:hover {
         color: #2e9cdf;
