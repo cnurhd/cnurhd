@@ -230,6 +230,7 @@ input[name="tab_item"] {
 <div class="tab_content" id="design_content">
         Thanks a lot
 </div>
+</div>
 
 <Br>
 
