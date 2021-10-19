@@ -90,11 +90,11 @@ template: docs
 
 ### 4-1. 혈액검사
    1. CBC : ACD, Hemolytic anemia (direct Coomb’s test), leukopenia (lymphopenia), thrombocytopenia, HUS/TTP
-    2. Chemistry : routine + CRP (<4~5mg/dl)
-    3. U/A : Urine protein 500mg/d or dipstick 3+ or RBC cast
-    4. Autoimmune markers : ANA 1:80, Anti-dsDNA, Anti-Sm, APS, etc.
-    5. Complement : C3, C4, CH50
-        - * Ds. activity를 반영하는 검사 : Anti-dsDNA와 Complement titer -> 호전 이후로도 dsDNA는 고역가로 보일 수도 있다.
+   2. Chemistry : routine + CRP (<4~5mg/dl)
+   3. U/A : Urine protein 500mg/d or dipstick 3+ or RBC cast
+   4. Autoimmune markers : ANA 1:80, Anti-dsDNA, Anti-Sm, APS, etc.
+   5. Complement : C3, C4, CH50
+     - * Ds. activity를 반영하는 검사 : Anti-dsDNA와 Complement titer -> 호전 이후로도 dsDNA는 고역가로 보일 수도 있다.
 
 ### 4-2. 조직검사
     1. Skin : Immunoglobulin과 complement 구성요소들이 dermoepidermal junction을 따라 침착
