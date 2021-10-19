@@ -61,6 +61,7 @@ template: docs
    1. 피로감, 발열, 체중감소
    2. Symmetrical, proximal muscle weakness : subacute
    3. 안구근육은 거의 침범하지 않음.
+   
 ### 3-2. 관절 외 증상
    1. skin : heliotrope rash, scaly eruption, Gottron’s papule, V sign, shawl sign, mechanic’s hand (antisynthetase syndrome)
    2. calcification
