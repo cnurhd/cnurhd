@@ -123,15 +123,15 @@ template: docs
 ### 5-2. 가이드라인
 
 ### 5-3. Disease activity assessment
-    1. 기본 개념
-        1. single summary score system : SLEDAI, SLAM 등
-        2. Organ-specific score system : BILAG
-    2. SLEDAI
-        1. 최근 10일 동안의 질병활성도 평가 (6점 이상이면 중등도, 20점 이상이면 고중증)
-        2. SLEDAI-2K, SELENA-SLEDAI
-        3. 가장 간단하고 쉽지만 기존 증상의 악화나 일부 호전을 민감하게 평가하기 어렵고 증상 중증도에 따른 가중치가 없다.
-    3. BILAG
-        1. 9개 organ system에 대한 지표 (2004), 최근 4주간의 질병활성도를 지난 4주간의 활성도와 비교
+   1. 기본 개념
+       1. single summary score system : SLEDAI, SLAM 등
+       2. Organ-specific score system : BILAG
+   2. SLEDAI
+       1. 최근 10일 동안의 질병활성도 평가 (6점 이상이면 중등도, 20점 이상이면 고중증)
+       2. SLEDAI-2K, SELENA-SLEDAI
+       3. 가장 간단하고 쉽지만 기존 증상의 악화나 일부 호전을 민감하게 평가하기 어렵고 증상 중증도에 따른 가중치가 없다.
+   3. BILAG
+       1. 9개 organ system에 대한 지표 (2004), 최근 4주간의 질병활성도를 지난 4주간의 활성도와 비교
         2. 각 organ system 활성도를 A ~ E로 평가 (A가 제일 높은 활성도)
         3. Severe : A로 바뀔 때. Moderate : B로 바뀔 때. Effect : A & B가 없을 떄
         4. 가장 포괄적이고 질병활성도/중증도를 감별할 수 있으며 민감도가 높으나, 실제 임상에서 쓰기에는 평가 항목이 많고 복잡하다.
