@@ -138,6 +138,7 @@ template: docs
    4. 기타 지표
        1. SLAM-R (2001) : 최근 4주간의 질병활성도 측정
        2. ECLAM, LAI, SLAQ 등도 있다.
+       
 ### 5-4. Damage assessment
     1. SLICC/ACR-DI
         1. 손상 : 6개월 이상 지속되거나 병리학적 반흔이 동반된 비가역적 증상
