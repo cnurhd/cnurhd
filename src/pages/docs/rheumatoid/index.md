@@ -174,7 +174,7 @@ template: docs
  
     label {
         display: inline-block;
-        padding: 10px 10px;
+        padding: 10px;
         width: 10%;
         font-weight: 600;
         color: #bbb;
