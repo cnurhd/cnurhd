@@ -25,13 +25,13 @@ template: docs
 
 
 
-# Systemic Lupus Erythematosus
+# 1. Systemic Lupus Erythematosus
 
 전신홍반루푸스는 다양한 장기침범과 이에 따른 임상증상을 나타내며, 발병초기에 하나 또는 여러 장기를 침범할 수도 있고 질병의 경과에 따라 새로운 임상증상이 나타나기도 한다.
 
 ***
 
-## 1. 역학 및 발병 인자
+## 1-1. 역학 및 발병 인자
 
 ### 1-1. 역학
 
