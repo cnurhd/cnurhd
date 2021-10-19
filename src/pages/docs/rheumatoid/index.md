@@ -163,7 +163,7 @@ template: docs
   padding-bottom: 40px;
   background-color: #ffffff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  width: 700px;
+  width: 600px;
   margin: 0 auto;}
 
 /* 탭 스타일 */
