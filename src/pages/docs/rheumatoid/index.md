@@ -246,7 +246,6 @@ input:checked + label {
  <section id="content4">
   <p>tab menu4의 내용</p>
  </section>
-
 </div>
 
 
