@@ -14,7 +14,7 @@ sections:
         style: primary
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/GettyImages-1288660069.jpg
     image_position: left
     title: A Section With An Image
     content: >-
