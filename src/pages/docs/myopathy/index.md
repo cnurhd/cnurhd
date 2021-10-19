@@ -14,14 +14,14 @@ seo:
       value: Tools
       keyName: property
     - name: 'og:description'
-      value: This is the tools page
+      value: Myopathy
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Tools
     - name: 'twitter:description'
-      value: This is the tools page
+      value: Myopathy
 template: docs
 ---
 
