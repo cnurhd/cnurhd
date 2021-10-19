@@ -96,16 +96,16 @@ template: docs
    5. Complement : C3, C4, CH50
      - * Ds. activity를 반영하는 검사 : Anti-dsDNA와 Complement titer -> 호전 이후로도 dsDNA는 고역가로 보일 수도 있다.
 
-### 4-2. 조직검사
+### 1-4-2. 조직검사
    1. Skin : Immunoglobulin과 complement 구성요소들이 dermoepidermal junction을 따라 침착
    2. Kidney : LN 분류, 다른 질환 감별, 치료, 예후와 관련
 
-### 4-3. 분류기준
+### 1-4-3. 분류기준
    1. 1997 revised ACR classification criteria
    2. 2012 SLICC classification criteria
    3. 2019 ACR/EULAR classification criteria
 
-### 4-4. 감별진단
+### 1-4-4. 감별진단
 
 <br>
 
