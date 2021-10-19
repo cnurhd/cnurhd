@@ -195,7 +195,7 @@ template: docs
         #tab3:checked ~ #content3,
         #tab4:checked ~ #content4 {
             display: block;}
-    </style>
+</style>
  
 <div class="main" style="text-align:left">
  
