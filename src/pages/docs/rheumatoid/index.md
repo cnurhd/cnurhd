@@ -201,7 +201,7 @@ ul{list-style:none;}
 }
 </style>
 
-<div class="tabs">
+<div class="tabmenu">
     <input id="all" type="radio" name="tab_item" checked>
     <label class="tab_item" for="all">Tab 1</label>
     <input id="programming" type="radio" name="tab_item">
