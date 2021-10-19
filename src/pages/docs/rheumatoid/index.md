@@ -224,7 +224,7 @@ input[name="tab_item"] {
     <div class="tab_content" id="all_content">
         henojiwu@gmail.com
     </div>
-    <div class="tab_content" id="programming_content">
+<div class="tab_content" id="programming_content">
         https://velog.io/@henotony
 </div>
     <div class="tab_content" id="design_content">
