@@ -71,9 +71,8 @@ Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis
 
 ### 3-2. 영상검사
 
-*   SI joint X-ray : mNY criteria에 따른, 2~4등급의 양측 천장관절염 또는 3~4등급의 편측 천장관절염
-
-*   MRI : nrAxSpA 진단에 유용.
+-   SI joint X-ray : mNY criteria에 따른, 2~4등급의 양측 천장관절염 또는 3~4등급의 편측 천장관절염
+-   MRI : nrAxSpA 진단에 유용.
 
 ### 3-3. 분류기준
 
