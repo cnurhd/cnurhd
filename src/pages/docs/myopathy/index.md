@@ -24,7 +24,7 @@ seo:
 template: docs
 ---
 
-# Inflammatory Myositis
+# Idiopathic Inflammatory Myositis
 
 골격근을 침범하여 근육의 염증과 근력저하를 초래하는 원인 불명의 전신 자가면역질환 <br>
 ** PM (1863) -> DM (1891) -> IBM (1971)
@@ -61,7 +61,7 @@ template: docs
    1. 피로감, 발열, 체중감소
    2. Symmetrical, proximal muscle weakness : subacute
    3. 안구근육은 거의 침범하지 않음.
-   
+
 ### 3-2. 관절 외 증상
    1. skin : heliotrope rash, scaly eruption, Gottron’s papule, V sign, shawl sign, mechanic’s hand (antisynthetase syndrome)
    2. calcification
