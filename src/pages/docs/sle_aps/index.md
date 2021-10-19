@@ -66,11 +66,11 @@ template: docs
 ## 3. 임상증상
 
 ### 3-1. 관절증상
-    1. 76~100%에서 발현 (가장 흔한 증상)
-    2. 2개 이상의 관절에 swelling을 동반한 synovitis, 30분 이상의 조조강직. 골변형은 드물다.
-    3. 과도한 운동성 병변 -> Jaccoud’s arthropathy
-    4. AVN (+) : 고관절에 국한된 통증, 5~10%, 주로 GC 사용과 관련
-    5. Myositis : SLE itself or Drug (HCQ, GC)
+   1. 76~100%에서 발현 (가장 흔한 증상)
+   2. 2개 이상의 관절에 swelling을 동반한 synovitis, 30분 이상의 조조강직. 골변형은 드물다.
+   3. 과도한 운동성 병변 -> Jaccoud’s arthropathy
+   4. AVN (+) : 고관절에 국한된 통증, 5~10%, 주로 GC 사용과 관련
+   5. Myositis : SLE itself or Drug (HCQ, GC)
 
 ### 3-2. 관절 외 증상
     1. 피부증상 : ACLE (malar rash, photosensitivity), SCLE, CCLE (discoid rash, alopecia)
