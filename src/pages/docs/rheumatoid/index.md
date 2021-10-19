@@ -165,21 +165,58 @@ template: docs
 
 ***
 <style>
-#css_tabs {
-    font-family:'nanumgothic', '나눔고딕', 'malgun gothic', '맑은 고딕', 'dotum', '돋움', sans-serif
-}
-/* 탭 선택 시 표시할 요소(div) 정의(1번 탭 선택 시 첫 번째 div 요소 표시) */
-#css_tabs input:nth-of-type(1), #css_tabs input:nth-of-type(1) ~ div:nth-of-type(1), #css_tabs input:nth-of-type(2), #css_tabs input:nth-of-type(2) ~ div:nth-of-type(2), #css_tabs input:nth-of-type(3), #css_tabs input:nth-of-type(3) ~ div:nth-of-type(3) {
-    display:none
-}
-#css_tabs input:nth-of-type(1):checked ~ div:nth-of-type(1), #css_tabs input:nth-of-type(2):checked ~ div:nth-of-type(2), #css_tabs input:nth-of-type(3):checked ~ div:nth-of-type(3) {
-    display:block
-}
-/* 라벨 기본 스타일 지정 */
-#css_tabs > label {
-    display:inline-block;
-    font-variant:small-caps;
-
+    .main {
+        min-width: 320px;
+        max-width: 800px;
+        padding: 10px;    
+        border-radius: 7px;;        
+        background: #ffffff;}
+ 
+    section {
+        display: none;
+        padding: 20px 0 0;
+        border-top: 1px solid #ddd;}
+ 
+    input {
+        display: none;}
+ 
+    label {
+        display: inline-block;
+        padding: 10px;
+        width: 10%;
+        font-weight: 600;
+        color: #bbb;
+        border: 1px solid transparent;
+        text-align: center;}
+ 
+    label:hover {
+        color: #2e9cdf;
+        cursor: pointer;}
+ 
+     /*input 클릭시, label 스타일*/
+    input:checked + label {
+        color: #555;
+        border: 1px solid #ddd;
+        border-top: 2px solid #2e9cdf;
+        border-bottom: 1px solid #ffffff;}
+ 
+    #tab1:checked ~ #content1,
+    #tab2:checked ~ #content2 {
+        display: block;}
+</style>
+ 
+<div class="main" style="text-align:left">
+    <input id="tab1" type="radio" name="tabs" checked> 
+    <label for="tab1">Eng</label>
+    <input id="tab2" type="radio" name="tabs">
+    <label for="tab2">한글</label>
+     <section id="content1" style="margin-bottom:20px;">
+        tab menu1의 내용
+    </section>
+     <section id="content2" style="margin-bottom:20px;">
+        tab menu2의 내용
+    </section>
+</div>
 
 
 
