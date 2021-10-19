@@ -46,9 +46,11 @@ Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis
 
 2.  골파괴 및 생성 : BMP, Wnt pathway
 
-
+<br>
 
 ## 2. 임상증상
+
+***
 
 1.  염증성 등통증 : 70%. inflammatory back pain (IPAIN - Insidious onset, Pain at night, Age < 40, Improvement with exercise, No improvement with rest)
 
