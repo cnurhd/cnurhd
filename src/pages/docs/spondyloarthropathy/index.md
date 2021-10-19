@@ -66,9 +66,8 @@ Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis
 
 ### 3-1. 혈액검사
 
-*   HLA-B27 : SpA의 70%, AS의 90%
-
-*   CRP/ESR 상승
+-   HLA-B27 : SpA의 70%, AS의 90%
+-   CRP/ESR 상승
 
 ### 3-2. 영상검사
 
