@@ -221,13 +221,13 @@ input[name="tab_item"] {
     <label class="tab_item" for="programming">Tab 2</label>
     <input id="design" type="radio" name="tab_item">
     <label class="tab_item" for="design">Tab 3</label>
-    <div class="tab_content" id="all_content">
+<div class="tab_content" id="all_content">
         henojiwu@gmail.com
-    </div>
+</div>
 <div class="tab_content" id="programming_content">
         https://velog.io/@henotony
 </div>
-    <div class="tab_content" id="design_content">
+<div class="tab_content" id="design_content">
         Thanks a lot
 </div>
 
