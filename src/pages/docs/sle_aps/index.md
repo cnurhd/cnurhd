@@ -182,18 +182,18 @@ Two hit hypothesis : aPL에 의해 혈전이 잘 생길 수 있는 상태 (1st h
 
 <br>
 
-## 3. 임상증상
+## 2-3. 임상증상
 
 ***
 
-### 3-1. 주증상
+### 2-3-1. 주증상
 
 혈관 혈전 및 임신 이환
 
 1. 혈전 : artery & vein
 2. 임신 이환 : 임신 10주 이전의 3회 이상의 연속적인 임신 손실, 다른 이유로는 설명되지 않는 임신 10주 이상의 태아사망과 자궁내 성장지현, 임신관련 산모혈전증, 태반부전으로 인한 34주 이전의 조산, 자간증, 자간전증
 
-### 3-2. 기타증상
+### 2-3-2. 기타증상
 
 1. HD : Thrombocytopenia (30~40%) : 대개 50,000 이상으로 경미함, Hemolytic anemia (6~10%)
 2. Skin : livedo reticularis, pseudovasculiticlesion, acrocyanosis, anetoderma, necrotic skin ulcer, superficial phlebitis
@@ -201,34 +201,34 @@ Two hit hypothesis : aPL에 의해 혈전이 잘 생길 수 있는 상태 (1st h
 
 <br>
 
-## 4. 검사소견과 진단
+## 2-4. 검사소견과 진단
 
 ***
 
-### 4-1. 혈액검사
+### 2-4-1. 혈액검사
 
 1. LAC : aPTT를 연장시키지만 실제로는 혈전증을 일으킴. 가장 강력한 혈전증의 예측인자
 2. aCL : IgG aCL이 혈전증과 가장 관련 있다고 알려짐. 20 GPL or MPL 이상의 titer가 6주 간격으로 1회 이상 나오면 진단적 특이도가 높음.
 3. Anti-b2GPI ab : aCL보다 진단적 특이도가 더 높은데, VDRL에 위양성을 보이기도 함.
 
-### 4-2. 분류기준
+### 2-4-2. 분류기준
 
 1. Sapporo classification criteria (1998) : 한 가지 이상의 검사소견 + APS lab이 6주 간격으로 2번 이상 검출 (LAC, aCL)
 2. Sydney classification criteria (2006) : 한 가지 이상의 검사소견 + APS lab이 12주 간격으로 2주 이상 검출 (LAC, aCL, Anti-b2GPI Ab)
 - 관련된 임상소견 : thrombocytopenia, 인지기능장애, livedo reticularis, APS related renal disease, valve involvement
 
-### 4-3. 감별진단
+### 2-4-3. 감별진단
 
 1. 유전적 과응고성 조건 : Factor V leiden, Prothrombin 변이, Protein C/S, Antithrombin III deficiency
 2. 후천적 과응고성 조건 : Pregnancy, Oral contraceptives, HRT, Nephrotic syndrome, DM, Obesity, surgery, vasculitis, malignancy
 
 <br>
 
-## 5.치료원칙
+## 2-5.치료원칙
 
 ***
 
-### 5-1. 요약
+### 2-5-1. 요약
 
 1. 치료의 주요 목표 : 이미 혈전증이 발생했다면 재발 방지, 증상이 아직 없었다면 예방
 2. 재발 방지 : Warfarinization (PT INR 2~3)
@@ -236,11 +236,11 @@ Two hit hypothesis : aPL에 의해 혈전이 잘 생길 수 있는 상태 (1st h
 4. 임신관리 : APS lab을 반복 검사. (임신 중기 이전까지는 2~4주 간격, 이후로는 1~2주 간격) -> heparin + low dose aspirin
 5. CAPS : anticoagulation + GC, Plasmaphresis, IVIG
 
-### 5-2.가이드라인
+### 2-5-2.가이드라인
 
 <br>
 
-## 6. 경과와 예후
+## 2-6. 경과와 예후
 
 ***
 
