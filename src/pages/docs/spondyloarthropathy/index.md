@@ -24,60 +24,77 @@ seo:
       value: This is the faq page
 template: docs
 ---
+HLA-B27 유전자와의 연관성을 공통적으로 갖고 있는 질환
+Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis, uveitis, psoriasis, IBD
 
-This is an example of the FAQ page.
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
 
-<hr />
+\*\*\*
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit?
+## 1. 역학 및 발병 인자&#xA;&#xA;1-1. 역학
 
-Praesent tristique sem nec lacus laoreet laoreet. Phasellus commodo consectetur viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mattis rhoncus lacus, vel maximus eros aliquet sit amet. Suspendisse condimentum non elit ac laoreet. Etiam molestie nulla nec ligula ultricies tempor. Nulla facilisi. Cras egestas accumsan nisi. Praesent elementum vehicula turpis sed imperdiet. Curabitur vel justo vitae tellus egestas auctor convallis vel ante. Mauris rhoncus finibus nulla, id rhoncus sapien hendrerit sed. Nullam malesuada mi at erat maximus, in gravida eros aliquet. Proin in enim nec enim tristique lobortis. Nulla finibus consectetur lectus eu porttitor. Vivamus venenatis, mi sit amet laoreet venenatis, augue enim efficitur justo, nec gravida lectus libero vel augue. Integer accumsan nisi lectus, eget imperdiet sem condimentum ut.
+*   유병률 : HLA-B27의 유병률과 연관된 것으로 보임. RA보다는 유병률이 높다.
 
-<hr />
+<!---->
 
-## Pellentesque id elit mollis, pharetra libero in?
+*   AS : 남성 > 여성 (2~3배), 한국인의 4%
 
-Suspendisse ligula massa, convallis vel turpis at, laoreet venenatis felis. Sed erat tortor, volutpat venenatis efficitur at, mollis ut arcu. Suspendisse potenti. Nulla facilisi. Suspendisse vestibulum quis mi in ullamcorper. Donec rhoncus vitae velit iaculis lobortis. Aliquam eleifend dignissim orci.
 
-<hr />
 
-## Maecenas placerat fermentum libero?
+### 1-2. 병인기전
 
-Curabitur quam neque, pulvinar at sagittis viverra, suscipit sed libero. Sed quis lorem feugiat, tempus metus et, tincidunt orci. Vestibulum eget justo venenatis, mollis lectus a, dictum ante. Sed nec metus mi. Fusce pretium quam vel varius aliquam. Nunc vulputate dictum ipsum, sit amet blandit dui ullamcorper sed. Pellentesque ornare arcu at consectetur pharetra. Suspendisse pellentesque euismod diam. Vivamus cursus eget tortor non ultricies.
+부착부염 + 골파괴 및 생성
 
-<hr />
+1.  부착부염 : inflammatory cells + HLA-B27 + Bacteria + mechanical stress + cytokines (유전요인 + 환경요인 + 면역)
 
-## Integer massa ante, bibendum sed tellus?
+2.  골파괴 및 생성 : BMP, Wnt pathway
 
-Nunc fringilla, est vel mattis malesuada, mauris velit tincidunt est, quis fringilla mauris felis ut sapien. Sed id sapien ex. Vivamus elementum et lectus pharetra accumsan. Curabitur viverra ante vitae velit euismod, in commodo dolor sollicitudin. Vivamus sit amet rhoncus dui, auctor malesuada ante. Phasellus lobortis fringilla magna at placerat. Maecenas nulla magna, condimentum porta tempor eu, tristique vitae nibh. Curabitur imperdiet eros quis justo luctus dapibus. Vestibulum eu ultrices felis, et lobortis urna. Aenean mollis tempus risus, at iaculis nisi rhoncus at. Phasellus eget massa pulvinar, dignissim velit aliquet, sollicitudin erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-<hr />
 
-## Nulla a interdum turpis, vitae tempus risus?
+## 2. 임상증상
 
-Vestibulum non sem eu dui facilisis maximus sed a diam. Proin et nulla vitae urna malesuada sollicitudin. Fusce vel enim nisi. Pellentesque tincidunt enim nec quam ullamcorper egestas. Aliquam erat volutpat. Cras in neque pulvinar augue suscipit feugiat. Vestibulum semper ipsum eu ligula imperdiet ullamcorper.
+1.  염증성 등통증 : 70%. inflammatory back pain (IPAIN - Insidious onset, Pain at night, Age < 40, Improvement with exercise, No improvement with rest)
 
-Donec vulputate nibh tellus, quis commodo lectus aliquet vestibulum. Morbi lobortis sem ex, in accumsan elit consectetur at. Ut dolor dui, eleifend a condimentum a, venenatis sit amet nunc. Aenean suscipit, metus sed ornare ultrices, neque felis ultrices mi, vitae gravida turpis dolor ut quam. Vivamus pulvinar eros id neque tincidunt elementum. Praesent at tristique nisl. Duis semper placerat risus, ac congue lectus varius nec.
+2.  말초관절염 : 주로 무릎과 발목, enthesitis, dactylitis
 
-<hr />
+3.  관절외증상 : conjunctivitis, ant. uveitis, psoriasis, IBD (SPINEACHE - Sausage digit, Psoriasis, IBD, NSAIDs, Enthesitis, Arthritis, Crohn's/UC, HLA-B27, Eye (uveitis))
 
-## Integer convallis urna consequat luctus commodo?
 
-Aenean vitae pulvinar est, et egestas nunc. Sed pharetra mollis felis eleifend pulvinar. Suspendisse feugiat metus ex, ac gravida enim accumsan eu. Curabitur placerat leo ut urna laoreet, quis varius arcu euismod. Maecenas et pretium velit. In egestas libero sed ornare luctus. Ut ac finibus odio.
 
-<hr />
+## 3. 검사소견과 진단
 
-## Nam consequat convallis purus, at eleifend tellus scelerisque et?
+### 3-1. 혈액검사
 
-Cras eu erat et ligula dictum feugiat at eget sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent et justo interdum, iaculis sapien sit amet, ornare est. Duis aliquam a elit et euismod. Sed convallis vestibulum sem sit amet interdum. Sed nec lobortis justo. Mauris fringilla porta risus, et volutpat diam congue at. Nullam commodo fringilla felis ut molestie. Nam eu elit risus. Nulla ornare posuere odio, nec tincidunt nulla elementum ac. Ut viverra eros fringilla aliquet porta. Nulla venenatis enim non blandit tincidunt.
+*   HLA-B27 : SpA의 70%, AS의 90%
 
-<hr />
+*   CRP/ESR 상승
 
-## Suspendisse blandit lobortis mi?
+### 3-2. 영상검사
 
-Cras vel congue augue. Integer sodales massa quis justo consectetur, id varius quam sagittis. Fusce molestie et diam ac faucibus. Morbi ut eleifend nibh. Quisque maximus velit eget leo aliquam mollis. Sed cursus nunc vitae dignissim consectetur. Vivamus eget venenatis leo, et aliquet odio. Nam mollis lectus ante, vel volutpat nulla elementum ac. Cras ut purus leo. Integer lacus ligula, vehicula vitae felis vel, iaculis tincidunt lorem. Etiam vestibulum venenatis neque sit amet semper. Fusce suscipit ante at mi blandit, a semper urna euismod.
+*   SI joint X-ray : mNY criteria에 따른, 2~4등급의 양측 천장관절염 또는 3~4등급의 편측 천장관절염
+
+*   MRI : nrAxSpA 진단에 유용.
+
+### 3-3. 분류기준
+
+
+
+## 4. 감별진단
+
+1.  Lumbar sprain : acute onset, 특정 동작에 의해 악화, 휴식하면  경감, 2개월 이내 자연 호전
+
+2.  HNP : sciatica가 허벅지를 거쳐 무릎 밑까지 내려갈 수도 있으나, SpA는 무릎 밑까지는 통증이 없다.
+
+3.  Epicondylitis : enthesitis와 혼동된다.
+
+4.  FMS
+
+5.  DISH, OCI, Bertolotti's syndrome 등
+
+
+
+## 5. 치료원칙
+
+
+
+## 6. 경과와 예후
