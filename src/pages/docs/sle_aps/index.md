@@ -72,7 +72,7 @@ template: docs
    4. AVN (+) : 고관절에 국한된 통증, 5~10%, 주로 GC 사용과 관련
    5. Myositis : SLE itself or Drug (HCQ, GC)
 
-### 3-2. 관절 외 증상
+### 1-3-2. 관절 외 증상
    1. 피부증상 : ACLE (malar rash, photosensitivity), SCLE, CCLE (discoid rash, alopecia)
    2. 점막증상 : 구강, 코, 항문, 생식기, 혈관염 (두드러기, 자반, 손가락궤양, 홍반성 구진)
    3. 뇌신경증상 : 2/3에서 발생. neuro + psychiatric sx. 주로 seizure, headache 형태로 발생. Transverse myelitis
