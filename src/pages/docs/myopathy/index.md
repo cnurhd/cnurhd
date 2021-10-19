@@ -5,7 +5,7 @@ excerpt: >-
   parts of your workflow.
 seo:
   title: Tools
-  description: This is the tools page
+  description: Myopathy
   extra:
     - name: 'og:type'
       value: website
