@@ -191,7 +191,9 @@ template: docs
         border-bottom: 1px solid #ffffff;}
  
     #tab1:checked ~ #content1,
-    #tab2:checked ~ #content2, {
+    #tab2:checked ~ #content2,
+    #tab3:checked ~ #content3,
+    #tab4:checked ~ #content4 {
         display: block;}
 </style>
  
