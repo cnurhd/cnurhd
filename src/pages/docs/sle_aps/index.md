@@ -73,16 +73,16 @@ template: docs
    5. Myositis : SLE itself or Drug (HCQ, GC)
 
 ### 3-2. 관절 외 증상
-    1. 피부증상 : ACLE (malar rash, photosensitivity), SCLE, CCLE (discoid rash, alopecia)
-    2. 점막증상 : 구강, 코, 항문, 생식기, 혈관염 (두드러기, 자반, 손가락궤양, 홍반성 구진)
-    3. 뇌신경증상 : 2/3에서 발생. neuro + psychiatric sx. 주로 seizure, headache 형태로 발생. Transverse myelitis
-    4. 혈액학적증상 : ACD, Lymphopenia, leukopenia, thrombocytopenia. 연관된 TTP/HUS, hemolytic anemia
-    5. 심폐증상 : pericarditis, myocarditis, Libman-Sacks endocarditis, CAD, Diffuse alveolar hemorrhage, shrinking lung syndrome, PAH
-    6. 신장증상 : Urine protein 500mg/d or dipstick 3+ or RBC casts
-    7. 위장관증상 : 연하곤란, ascites, pancreatitis, serositis, protein-losing enteropathy
-    8. 간증상 : Budd-Chiari syndrome
-    9. 안과 증상 : sicca syndrome, 공막염, 시신경염, retinal toxicity (HCQ)
-    10. 장막염 : 흉막염, 심장막염, 복막염 등
+   1. 피부증상 : ACLE (malar rash, photosensitivity), SCLE, CCLE (discoid rash, alopecia)
+   2. 점막증상 : 구강, 코, 항문, 생식기, 혈관염 (두드러기, 자반, 손가락궤양, 홍반성 구진)
+   3. 뇌신경증상 : 2/3에서 발생. neuro + psychiatric sx. 주로 seizure, headache 형태로 발생. Transverse myelitis
+   4. 혈액학적증상 : ACD, Lymphopenia, leukopenia, thrombocytopenia. 연관된 TTP/HUS, hemolytic anemia
+   5. 심폐증상 : pericarditis, myocarditis, Libman-Sacks endocarditis, CAD, Diffuse alveolar hemorrhage, shrinking lung syndrome, PAH
+   6. 신장증상 : Urine protein 500mg/d or dipstick 3+ or RBC casts
+   7. 위장관증상 : 연하곤란, ascites, pancreatitis, serositis, protein-losing enteropathy
+   8. 간증상 : Budd-Chiari syndrome
+   9. 안과 증상 : sicca syndrome, 공막염, 시신경염, retinal toxicity (HCQ)
+   10. 장막염 : 흉막염, 심장막염, 복막염 등
 
 <br>
 
