@@ -58,7 +58,7 @@ Sacroilitis, spondylitis, 하지의 비대칭적인 oligoarthritis or enthesitis
 
 3.  관절외증상 : conjunctivitis, ant. uveitis, psoriasis, IBD (SPINEACHE - Sausage digit, Psoriasis, IBD, NSAIDs, Enthesitis, Arthritis, Crohn's/UC, HLA-B27, Eye (uveitis))
 
-
+<br>
 
 ## 3. 검사소견과 진단
 
