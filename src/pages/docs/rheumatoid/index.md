@@ -156,7 +156,6 @@ template: docs
 
 ***
 
-/* asdf
 <style>
     .main {
         min-width: 320px;
