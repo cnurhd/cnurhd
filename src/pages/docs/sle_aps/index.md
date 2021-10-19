@@ -86,9 +86,9 @@ template: docs
 
 <br>
 
-## 4. 검사소견과 진단
+## 1-4. 검사소견과 진단
 
-### 4-1. 혈액검사
+### 1-4-1. 혈액검사
    1. CBC : ACD, Hemolytic anemia (direct Coomb’s test), leukopenia (lymphopenia), thrombocytopenia, HUS/TTP
    2. Chemistry : routine + CRP (<4~5mg/dl)
    3. U/A : Urine protein 500mg/d or dipstick 3+ or RBC cast
