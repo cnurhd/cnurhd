@@ -149,3 +149,99 @@ template: docs
     
 
 ## 6. 경과와 예후
+
+
+# Antiphospholipid Syndrome
+
+## 1. 역학 및 발병 인자
+
+***
+
+APS는 항인지질항체와 관련하여 혈전 형성과 임신 이환을 특징으로 하는 질환이다.
+
+단독으로 발생하거나 (일차 항인지질항체증후군) 또는 SLE와 같은 다른 자가면역질환에 동반되어 (이차 항인지질항체증후군) 발생한다.
+
+### 1-1. 역학
+
+1. 무증상 보유자 / 전형적 APS / 임신 이환에 국한된 APS / 혈전이나 임신 이환 이와의 증상을 보이는 APS로 구분 가능
+2. 정상인에서 APS 양성률은 1~5%
+3. 발생률 : 10만명 당 5명, 유병률 : 10만명 당 20~50명
+4. 남성 < 여성
+
+<br>
+
+## 2. 병인기전
+
+***
+
+Two hit hypothesis : aPL에 의해 혈전이 잘 생길 수 있는 상태 (1st hit)에서 추가적인 유발인자 (2nd hit)가 있어야 혈전이 발생함.
+
+1. 혈전 발생
+2. 태아 손실 : Anti-b2GP1 Ab에 의해 생성된 혈전 or inflammation or hormone 분비 억제 등의 기전에 의해 발생
+
+<br>
+
+## 3. 임상증상
+
+***
+
+### 3-1. 주증상
+
+혈관 혈전 및 임신 이환
+
+1. 혈전 : artery & vein
+2. 임신 이환 : 임신 10주 이전의 3회 이상의 연속적인 임신 손실, 다른 이유로는 설명되지 않는 임신 10주 이상의 태아사망과 자궁내 성장지현, 임신관련 산모혈전증, 태반부전으로 인한 34주 이전의 조산, 자간증, 자간전증
+
+### 3-2. 기타증상
+
+1. HD : Thrombocytopenia (30~40%) : 대개 50,000 이상으로 경미함, Hemolytic anemia (6~10%)
+2. Skin : livedo reticularis, pseudovasculiticlesion, acrocyanosis, anetoderma, necrotic skin ulcer, superficial phlebitis
+3. CAPS : 1주 이내에 발생한 3개 이상의 장기를 침범하는 작은 혈관 폐색 + aPL 양성 : 주로 감염, 수술, 외상, 종양, SLE 악화에 의함
+
+<br>
+
+## 4. 검사소견과 진단
+
+***
+
+### 4-1. 혈액검사
+
+1. LAC : aPTT를 연장시키지만 실제로는 혈전증을 일으킴. 가장 강력한 혈전증의 예측인자
+2. aCL : IgG aCL이 혈전증과 가장 관련 있다고 알려짐. 20 GPL or MPL 이상의 titer가 6주 간격으로 1회 이상 나오면 진단적 특이도가 높음.
+3. Anti-b2GPI ab : aCL보다 진단적 특이도가 더 높은데, VDRL에 위양성을 보이기도 함.
+
+### 4-2. 분류기준
+
+1. Sapporo classification criteria (1998) : 한 가지 이상의 검사소견 + APS lab이 6주 간격으로 2번 이상 검출 (LAC, aCL)
+2. Sydney classification criteria (2006) : 한 가지 이상의 검사소견 + APS lab이 12주 간격으로 2주 이상 검출 (LAC, aCL, Anti-b2GPI Ab)
+- 관련된 임상소견 : thrombocytopenia, 인지기능장애, livedo reticularis, APS related renal disease, valve involvement
+
+### 4-3. 감별진단
+
+1. 유전적 과응고성 조건 : Factor V leiden, Prothrombin 변이, Protein C/S, Antithrombin III deficiency
+2. 후천적 과응고성 조건 : Pregnancy, Oral contraceptives, HRT, Nephrotic syndrome, DM, Obesity, surgery, vasculitis, malignancy
+
+<br>
+
+## 5.치료원칙
+
+***
+
+### 5-1. 요약
+
+1. 치료의 주요 목표 : 이미 혈전증이 발생했다면 재발 방지, 증상이 아직 없었다면 예방
+2. 재발 방지 : Warfarinization (PT INR 2~3)
+3. 예방 : HCQ +- low dose aspirin (75~100mg) : aspirin의 효과는 아직 논란이 있음.
+4. 임신관리 : APS lab을 반복 검사. (임신 중기 이전까지는 2~4주 간격, 이후로는 1~2주 간격) -> heparin + low dose aspirin
+5. CAPS : anticoagulation + GC, Plasmaphresis, IVIG
+
+### 5-2.가이드라인
+
+<br>
+
+## 6. 경과와 예후
+
+***
+
+1. 전체 환자의 1/4 : 발병에서 장기 손상까지 약 10년 소요. 10년 생존가능성 90.7%
+2. 주요 사망 원인은 심한 혈전증과 감염.
