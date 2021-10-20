@@ -1,5 +1,5 @@
 ---
-title: Starter Theme
+title: Lecture_review 1
 weight: 1
 seo:
   title: Starter Theme
