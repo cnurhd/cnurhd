@@ -198,7 +198,6 @@ template: docs
 (Allenbach, Neurology, 2018)
 
 
-
 ### 6-2. Characteristics of IMNM
 
 - Pathology
@@ -209,7 +208,6 @@ template: docs
   - Anti-SRP myopathy
   - Anti-HMGCR myopathy
   - Seronegative IMNM
-
 
 
 ### 6-3. Clinical Features
