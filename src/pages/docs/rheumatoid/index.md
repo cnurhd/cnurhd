@@ -206,7 +206,7 @@ template: docs
         display: block;}
 </style>
  
-<div class="main" style="text-align:left">
+<div class="main">
     <input id="tab1" type="radio" name="tabs" checked> 
     <label for="tab1">Eng</label>
     <input id="tab2" type="radio" name="tabs">
