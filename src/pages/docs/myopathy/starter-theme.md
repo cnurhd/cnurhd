@@ -187,9 +187,11 @@ template: docs
   - CYC for ARDS
 - Monitor PFT every 2~3 months for ILD progression
 
-
+<br>
 
 ## 6. Immune mediated necrotizing myopathy
+
+***
 
 ### 6-1. Pathogenesis in IMNM
 
