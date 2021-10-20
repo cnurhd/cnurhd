@@ -85,8 +85,6 @@ template: docs
 
 (Mariampillai, JAMA Neurol. 2018 (Cluster analysis))
 
-
-
 <Br>
 
 ## 3. Classification criteria
