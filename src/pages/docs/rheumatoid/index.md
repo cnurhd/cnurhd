@@ -182,13 +182,13 @@ template: docs
  
     label {
         display:inline-block;
-    font-variant:small-caps;
-    font-size:.9em;
-    padding:5px;
-    text-align:center;
-    width:20%;
-    line-height:1.8em;
-    font-weight:700;}
+        font-variant:small-caps;
+        font-size:.9em;
+        padding:5px;
+        text-align:center;
+        width:20%;
+        line-height:1.8em;
+        font-weight:700;}
  
     label:hover {
         color: #2e9cdf;
