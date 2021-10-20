@@ -24,7 +24,7 @@ template: docs
 ---
 
 <div class="note">
-  <strong>Note:</strong> This is the lecture summary of Prof. KJH's 
+  <strong>Note:</strong> This is the lecture summary of Prof. KJH's slides
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget nullam non nisi est. Enim diam vulputate ut pharetra sit amet. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Id leo in vitae turpis massa sed elementum. Sed elementum tempus egestas sed sed risus pretium quam. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis.
