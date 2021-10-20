@@ -130,12 +130,14 @@ template: docs
 
 - IFN-signature
   - Gallav. Curr Ooin Rheumatol. 2019
-  
+
 - IFN score **
   - Rigolet. RMD Open, 2019 
   - Tabata, ACR abstract, 2019
+
 - Autoantigen expression
   - Final-Fernandez, A&R, 2019
+  
 - Mitochondrial dysfunction
   - Boehler, J Pathol, 2019 
   - Lood, ACR abstract, 2019
