@@ -33,6 +33,8 @@ template: docs
 
 ## 1. History
 
+***
+
 - History of classification (Lundberg, Nat Rev Rheum 2018)
   - Bohan and Peter (NEJM, 1975)
   - ENMC (European NeuroMuscular Centre) (Hoogendjik, Neuromuscular Dis, 2004)
