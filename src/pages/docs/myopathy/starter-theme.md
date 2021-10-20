@@ -316,6 +316,8 @@ Vuillard. Ann Intensive Care. 2019
 
 ## 10. Clinical Evaluation
 
+***
+
 ### 10-1. Disease Activity/Damage
 
 - Physician Global Activity
