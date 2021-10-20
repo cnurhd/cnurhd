@@ -163,7 +163,6 @@ template: docs
 (Gallay, Curr Opin Rheumatol 2018)
 
 
-
 ### 5-3. Clinical Features
 
 - Suspect if unexplained ARDS, ILD (NSIP and/or OP), Raynaud’s phenomenon, fever, and/or Mechanic's hands
