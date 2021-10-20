@@ -89,6 +89,8 @@ template: docs
 
 ## 3. Classification criteria
 
+***
+
 ### 3-1. Proposed criteria for ASS
 
 | Connors (2010)                                               | Solomon (2011)                                               |
