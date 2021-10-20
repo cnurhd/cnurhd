@@ -195,6 +195,7 @@ template: docs
  
      /*input 클릭시, label 스타일*/
     input:checked + label {
+        text-align:center;
         color: #555;
         border: 1px solid #ddd;
         border-top: 2px solid #2e9cdf;
