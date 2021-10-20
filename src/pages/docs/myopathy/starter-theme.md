@@ -297,9 +297,11 @@ Vuillard. Ann Intensive Care. 2019
 - Tacrolimus : IMPACT study (Takada, Rheumatology, 2019) (Suzuka, int J rheum dis 2019) (tSUJI, Arthritis rheumatol 2019)
 - Tofacitinib : (Kurasawa, Rheumatology, 2018) (Chen, NEJM (correspondence), 2019)
 
-
+<br>
 
 ## 9. Malignancy
+
+***
 
 - For PM/DM
   - Older age, dyspnea, male, cutaneous necrosis, cutaneous vasculitis, rapid onset of vasculitis, Higher CK/ESR/CRP
