@@ -137,14 +137,16 @@ template: docs
 
 - Autoantigen expression
   - Final-Fernandez, A&R, 2019
-  
+
 - Mitochondrial dysfunction
   - Boehler, J Pathol, 2019 
   - Lood, ACR abstract, 2019
 
-
+<br>
 
 ## 5. Antisynthetase syndrome
+
+***
 
 ### 5-1. The role of Anti-synthetase
 
