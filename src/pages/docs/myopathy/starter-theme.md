@@ -312,7 +312,7 @@ Vuillard. Ann Intensive Care. 2019
 
 (Lu, Plos One, 2014)
 
-
+<br>
 
 ## 10. Clinical Evaluation
 
