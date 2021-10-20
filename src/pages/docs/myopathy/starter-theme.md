@@ -179,7 +179,6 @@ template: docs
 - ARDS (Severe and aggressive ILD) vs Chronic ILD
 
 
-
 ### 5-4. Treatment of ASS
 
 - +ILD : Requires combination therapy
