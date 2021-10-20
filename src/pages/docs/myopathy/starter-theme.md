@@ -46,9 +46,11 @@ template: docs
 
 ** Comparison of classification (Leclair, Clin Rev Allerg Immunol, 2017)
 
-
+<br>
 
 ## 2. Classification
+
+***
 
 - Dermatomyositis (DM)
 - Polymyositis (PM)
