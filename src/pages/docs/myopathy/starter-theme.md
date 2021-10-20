@@ -111,17 +111,19 @@ template: docs
   - Anti-HMGCR myopathy
   - Seronegative IMNM
 
-
-
 <br>
 
 ## 4. Pathogenesis
 
+***
+
 - HLA-autoantibody association
   - (Rothwell, ARD, 2019)
   - (Kang, Semin Arth Rheum, 2019)
+
 - T-cell transcriptome
   - Houtman, Arth Research Therapy, 2018
+  
 - NK cells
   - Hervier, J immunol. 2016 
   - Throm, JCl Insight, 2018
