@@ -72,6 +72,7 @@ template: docs
     - Anti-TIF1v associated DM 
     - Anti-NXPZ associated DM
     - Anti-SAE associated DM
+    
 - Immune myopathies with myofiber necrosis
 - Antisynthetase syndrome (ASS) associated myositis
 - Polymyositis
