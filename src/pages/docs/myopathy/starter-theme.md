@@ -226,11 +226,11 @@ template: docs
 - Malignancy Risk : seronegative >>anti-HMGCR > anti-SRP = general population
 - Treatment: steroid+MTX -> RTX/ IVIG
 
-
-
-
+<br>
 
 ## 7. Diagnosis
+
+***
 
 - Physical Examination
 - Laboratory tests : DK, LD, Aldolase, ANA
