@@ -181,7 +181,7 @@ template: docs
         display: none;}
  
     label {
-            display: inline-block;
+        display: inline-block;
         padding: 10px;
         width: 10%;
         font-weight: 600;
