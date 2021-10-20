@@ -123,12 +123,14 @@ template: docs
 
 - T-cell transcriptome
   - Houtman, Arth Research Therapy, 2018
-  
+
 - NK cells
   - Hervier, J immunol. 2016 
   - Throm, JCl Insight, 2018
+
 - IFN-signature
   - Gallav. Curr Ooin Rheumatol. 2019
+  
 - IFN score **
   - Rigolet. RMD Open, 2019 
   - Tabata, ACR abstract, 2019
