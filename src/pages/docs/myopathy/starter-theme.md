@@ -58,8 +58,6 @@ template: docs
 - Antisynthetase syndrome (ASS)
 - Immune-mediated necrotizing myopathy (IMNM)
 
-
-
 ### 2-1. Integrated Classification with MSA
 
 ** Based on Pathology and MSA
