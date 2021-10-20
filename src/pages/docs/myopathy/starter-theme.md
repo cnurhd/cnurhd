@@ -243,14 +243,13 @@ template: docs
 ### 7-1. Myositis-specific autoantibody
 
 
-
 ### 7-2. Myositis-associated autoantibody
 
-
-
-
+<br>
 
 ## 8. Treatment
+
+***
 
 ### 8-1. General Approach
 
