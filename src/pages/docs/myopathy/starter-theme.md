@@ -67,7 +67,7 @@ template: docs
 
 
 - The dermatomyositis spectrum
-  - Anti-MDA5 associated DM
+    - Anti-MDA5 associated DM
   - Anti-MiZ associated DM 
   - Anti-TIF1v associated DM 
   - Anti-NXPZ associated DM
