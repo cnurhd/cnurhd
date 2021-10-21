@@ -145,8 +145,6 @@ template: docs
   - 두 군간에 NSAIDs와 aspirin 사용 비율이 다르다. 이로 인한 심혈관계 합병증 발생의 위험은 계산되지 않았다.
   - 대부분 서양인 환자를 대상으로 진행한 임상시험 결과로 우리나라 실제 의료 상황과는 다르다.
 
-
-
 ### 4-3. Uricosuric agent : benzbromarone
 
 - 대개 XOI에 add해서 사용한다.
@@ -156,7 +154,6 @@ template: docs
   - No 요로결석
   - 60세 미만
 - 간독성 등 부작용 위험 때문에 사용에 제한이 있다.
-
 
 ### 4-4. Uricosuric agent : Pegloticase
 
