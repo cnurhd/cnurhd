@@ -93,6 +93,7 @@ template: docs
 | PMN    | <25%             | <25%                                               | >70%                                                         | >90%             |                                                              |
 | 배양   | 음성             | 음성                                               | 음성                                                         | 양성             | 음성                                                         |
 | 진단   |                  | OA<br />Traumatic arthritis<br />Early RA<br />AVN | RA<br />Acute crystalopathy<br />Viral arthritis<br />PsA<br />ReA | Septic arthritis | Trauma<br />Coagulopathy<br />Tumor<br />Charcot arthropathy |
+
 </div>
 
 * 비염증관절염과 염증관절염의 구분 : WBC 2000~3000이 기준
