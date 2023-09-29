@@ -1,11 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nanum+Gothic&family=Roboto&display=swap');
 
-
-@font-face {
-    src: 'https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Roboto&display=swap';
-    font-family: "Noto Sans KR";
-    font-style: normal;
-}
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
 
 @font-face {
     src: 'https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Roboto&display=swap';
@@ -21,6 +16,13 @@
     src: local('※');
     unicode-range:U+0041-005A, U+0061-007A, U+0030-0039;
 }
+
+@font-face {
+  font-family: 'Spoqa Han Sans Neo';
+  font-style: sans-serif;
+}
+
+
 
 /* scrollbar 설정 */
 
@@ -47,9 +49,8 @@ body {
 /* grid_width 설정 */
 
 .md-grid {
-    margin-left: 26px;
-    margin-right: auto;
-    max-width: 1360px;
+    align-content: center;
+    max-width: 65rem;
 }
 
 .md-container {
@@ -61,7 +62,6 @@ body {
 .md-container > main > div {
   margin-top: 26px;
   margin-right: auto;
-  scroll-
 }
 
 .md-sidebar--primary {
@@ -97,31 +97,35 @@ body {
     background-color: #f8f8fa;
 }
 
+.md-content {
+  margin-left: -1rem;
+}
+
 .md-content__inner.md-typeset {
     background: #fff;
     border: 1px solid #dde0e7;
     border-radius: 5px;
     box-shadow: 0 1px 2px 0 rgb(0 0 0 / 8%);
-    margin-top:1.2rem;
-    padding-top: 2em;
+    margin-top:1rem;
+    padding-top: 1em;
     padding-right: 2em;
-    padding-bottom: 2em;    
+    padding-bottom: 1.5em;    
     padding-left: 2em;
-    font-size: 0.7rem;
+    font-size: 15px;
     font-family: 'Roboto' ,'Noto Sans KR', 'sans-serif';
     letter-spacing :100%;
 }   
 
 .md-content__inner.md-typeset
     > h1 {
-        color: rgba(0, 0, 0, 0.900);
+        color: rgba(0, 0, 0, 0.9);
         font-weight: bold;
         font-size: 1.5rem;
 }
 
 .md-content__inner.md-typeset
     > h2 {
-        color: rgba(0, 0, 0, 0.870);
+        color: rgba(0, 47, 255, 0.8);
         font-weight: 500;
         font-size: 1.2rem;
 }
@@ -141,6 +145,7 @@ body {
 }
 
 .md-nav {
+    margin-left: 1%;
     font-size: 0.75rem;
     line-height: 1.5;
 }
@@ -174,27 +179,32 @@ body {
 
 /* 왼쪽 nav - nested 메뉴 안 설정*/
 .md-nav__item.md-nav__item--active.md-nav__item--nested > nav > ul > li > nav > ul{
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 400;
-  line-height : 1.45em;
+  line-height : 1.3em;
   padding-left : 0.06rem;
   border-left: 0.8px solid;
-  border-left-color:rgba(41, 41, 41, 0.400);
+  border-left-color:rgba(34, 34, 34, 0.4);
   margin-left: 0.2rem;
 }
 
 /* 오른쪽 메뉴 설정*/
+.md-sidebar.md-sidebar--secondary {
+  margin-left: -0.5rem;
+}
+
 .md-sidebar.md-sidebar--secondary > div > div > nav > ul {
+  font-family: 'Spoqa Han Sans Neo';
   font-size: 14.5px;
-  font-weight : 400;
-  color: rgba(0, 0, 0, 0.700);
+  font-weight : 500;
+  color: rgba(47, 47, 47, 0.8);
   line-height : 1.3rem;
 }
 
 /* 오른쪽 메뉴 nested (1번째 하위) 설정*/
 .md-nav.md-nav--secondary > ul.md-nav__list > li.md-nav__item > nav.md-nav > ul {
-  font-family: 'Noto Sans KR';
-  font-size: 12.5px;
+  font-family: 'Spoqa Han Sans Neo';
+  font-size: 13.5px;
   font-weight : 400;
   border-left: 0.8px solid;
   border-left-color:rgba(41, 41, 41, 0.200);
