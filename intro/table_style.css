@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  
+  
+  table.entry {
+    text-align: left;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid transparent;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: .25rem;
+  }
+  
+  table.entry thead tr:first-child {
+    background: #ed1c40;
+    color: #fff;
+  }
+  
+  table.entry thead tr.header:first-child th {
+    border-bottom: 2px solid white;
+  }
+  
+  table.entry thead tr:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.entry thead td {
+    border-bottom: 1px solid #ddd;
+    padding-right: 10px;
+  }
+
+  table.entry th:first-child,
+  table.entry td:first-child {
+    padding: 0 15px 0 20px;
+  }
+  
+  table.entry tbody tr:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.entry tbody td {
+    border-bottom: 1px solid #ddd;
+    padding-right: 10px;
+  }
+  
+  table.entry thead tr.blank td {
+    line-height: 30px;
+    border-top: 1px solid gray;
+    border-bottom: transparent;
+  }
+  
+  table.entry tbody tr.note td:first-child {
+    line-height: 30px;
+    background-color: #f2f2f2;
+    font-weight: 500;
+    border-bottom: 3px solid #ddd;
+  }
+  
+  table.entry tbody tr td {
+    line-height: 25px;
+    border-top: 1px solid #f2f2f2;
+    padding: 10px 15px 0 20px;
+  }
+  
+  
+  table.entry tbody tr.footer td {
+    border-bottom: 1px solid gray;
+  }
+  
+  
+  /*==============================*/
+  /*==============================*/
+  
+  
+  table.classification {
+    text-align: left;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid transparent;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: .25rem;
+  }
+  
+  table.classification thead tr.header:first-child {
+    background: #ed1c40;
+    color: #fff;
+  }
+  
+  table.classification thead tr.header:first-child th {
+    border-bottom: 2px solid white;
+  }
+  
+  table.classification thead tr:last-child {
+    background: gray;
+    color: #fff;
+    line-height: 30px;
+  }
+  
+  table.classification th:first-child,
+  table.classification td:first-child {
+    padding: 0 15px 0 20px;
+  }
+  
+  table.classification th {
+    font-weight: 500;
+  }
+  
+  table.classification thead tr:last-child th:first-child {
+    border-bottom: 3px solid #ddd;
+    text-align: left;
+  }
+  
+  table.classification thead tr:last-child th:last-child {
+    border-bottom: 3px solid #ddd;
+    text-align: right;
+    padding-right: 10px;
+  }
+  
+  table.classification tbody tr:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.classification tbody td {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table.classification td:last-child {
+    text-align: right;
+    padding-right: 10px;
+  }
+  
+  table.classification tbody tr.footer td {
+    border-bottom: 1px solid gray;
+  }
+  
+  /*==============================*/
+  /*==============================*/
+  
+  table.note {
+    text-align: left;
+    line-height: 30px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid transparent;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: .25rem;
+    border: hidden;
+  }
+  
+  table.note thead tr {
+    background-color: #f2f2f2;
+  }
+  
+  table.note th:first-child,
+  table.note td:first-child {
+    padding: 0 15px 0 20px;
+  }
+  
+  table.note th {
+    font-weight: 500;
+  }
+  
+  table.note thead tr:last-child th:first-child {
+    border-bottom: 3px solid #ddd;
+    text-align: left;
+  }
+  
+  table.note tbody tr:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.note tbody td {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table.note tbody tr.footer td {
+    border-bottom: 1px solid gray;
+  }
