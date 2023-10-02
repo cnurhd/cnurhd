@@ -1,0 +1,780 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nanum+Gothic&family=Roboto&display=swap');
+
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+@font-face {
+    src: 'https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Roboto&display=swap';
+    font-family: "Noto Sans KR";
+    unicode-range: U+0020-007E;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    src: local('※');
+    unicode-range:U+0041-005A, U+0061-007A, U+0030-0039;
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans Neo';
+  font-style: sans-serif;
+}
+
+
+body {
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+.md-search {
+  margin-right: 15px;
+}
+
+
+/* grid_width 설정 */
+
+.md-grid {
+    align-content: center;
+    max-width: 70rem;
+}
+
+.md-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1
+}
+
+.md-container > main > div {
+  margin-top: 26px;
+  margin-right: auto;
+}
+
+.md-sidebar--primary {
+    max-width: 58rem
+}
+
+.md-sidebar--secondary {
+    max-width: 30rem
+}
+
+.md-sidebar__scrollwrap {
+    margin-left: 0.1rem
+}
+
+
+  /* 스크롤바 너비 조절하는 부분 */
+
+.md-sidebar__scrollwrap::-webkit-scrollbar,
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  overflow:auto;
+  border-radius: 3px;
+  width: 5px;
+  background: #f8f8fa; 
+}
+
+.md-sidebar__scrollwrap:hover::-webkit-scrollbar {
+  background: #f8f8f8; 
+}
+
+.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb {
+  background: #8b8b8b; 
+}
+
+/* 위메뉴 설정 */
+.md-tabs__link{
+    display: flex;
+    font-size: 1.7em;
+    margin-top: .8rem;
+    opacity: .7;
+    outline-color: var(--md-accent-fg-color);
+    outline-offset: .2rem;
+    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s
+}
+
+.md-tabs__link--active,.md-tabs__link:focus,.md-tabs__link:hover {
+    color: inherit;
+    opacity: 1
+}
+
+.md-main {
+    background-color: #f8f8fa;
+}
+
+.md-content {
+  margin-left: -1rem;
+}
+
+.md-content__inner.md-typeset {
+    background: #fff;
+    border: 1px solid #dde0e7;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 8%);
+    margin-top:1rem;
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-bottom: 1.5em;    
+    padding-left: 2em;
+    font-size: 15px;
+    font-family: 'Roboto' ,'Noto Sans KR', 'sans-serif';
+    letter-spacing :100%;
+}   
+
+.md-content__inner.md-typeset
+    > h1 {
+        color: rgba(0, 0, 0, 0.9);
+        font-weight: bold;
+        font-size: 1.5rem;
+}
+
+.md-content__inner.md-typeset
+    > h2 {
+        color: rgba(0, 47, 255, 0.8);
+        font-weight: 500;
+        font-size: 1.2rem;
+}
+
+.md-content__inner.md-typeset
+    > h3 {
+        color: rgba(0, 0, 0, 0.850);
+        font-weight: 500;
+        font-size: 0.95rem;
+}
+
+.md-content__inner.md-typeset
+    > h4 {
+        color: rgba(0, 0, 0, 0.820);
+        font-weight: 500;
+        font-size: 0.8rem;
+}
+
+.md-nav {
+    margin-left: 1%;
+    font-size: 0.75rem;
+    line-height: 1.5;
+}
+
+
+/*
+.md-typeset {
+    font-size: px2rem(12px);
+    line-height: 1.4;
+    color-adjust: exact;
+}
+*/
+
+
+/* 왼쪽 nav - 제목 설정*/
+.md-nav.md-nav--primary.md-nav--lifted  {
+  font-family: 'Roboto';
+  font-size: 20px;
+  line-height: 2;
+  color: rgba(30, 30, 30, 0.913);
+}
+
+/* 왼쪽 nav - 메뉴 설정*/
+.md-nav__item.md-nav__item--active.md-nav__item--nested > nav > ul {
+  font-family: 'Lato';
+  font-size: 16.5px;
+  font-weight : 600;
+  color: rgba(0, 0, 0, 0.700);
+  line-height : 1.6em;
+}
+
+/* 왼쪽 nav - nested 메뉴 안 설정*/
+.md-nav__item.md-nav__item--active.md-nav__item--nested > nav > ul > li > nav > ul{
+  font-size: 15px;
+  font-weight: 400;
+  line-height : 1.3em;
+  padding-left : 0.06rem;
+  border-left: 0.8px solid;
+  border-left-color:rgba(34, 34, 34, 0.4);
+  margin-left: 0.2rem;
+}
+
+/* 오른쪽 메뉴 설정*/
+.md-sidebar.md-sidebar--secondary {
+  margin-left: -0.5rem;
+}
+
+.md-sidebar.md-sidebar--secondary > div > div > nav > ul {
+  font-family: 'Spoqa Han Sans Neo';
+  font-size: 14.5px;
+  font-weight : 500;
+  color: rgba(47, 47, 47, 0.8);
+  line-height : 1.3rem;
+}
+
+/* 오른쪽 메뉴 nested (1번째 하위) 설정*/
+.md-nav.md-nav--secondary > ul.md-nav__list > li.md-nav__item > nav.md-nav > ul {
+  font-family: 'Spoqa Han Sans Neo';
+  font-size: 13.5px;
+  font-weight : 400;
+  border-left: 0.8px solid;
+  border-left-color:rgba(41, 41, 41, 0.200);
+  margin-left: 0.5rem;
+}
+
+.md-nav.md-nav--secondary > ul.md-nav__list > li.md-nav__item > nav.md-nav > ul > li > nav > ul > li {
+  font-family: 'Noto Sans KR';
+  font-size: 11.5px;
+  font-weight : 400;
+}
+==================================================================
+/* table css */
+/*==============================*/
+/*==============================*/
+
+table.incidence {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.65rem;
+    line-height: 15px;
+  }
+  
+  table.incidence thead tr.head {
+    background-color: #007598;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+    box-shadow: 0 0 0 0;
+  }
+  
+  table.incidence thead tr {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-top: 2px solid #007598;
+    color: black;
+    text-align: center;
+    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.6);
+  }
+  
+  table.incidence thead tr th {
+    font-weight: bolder;
+  }
+  
+  table.incidence th,
+  table.incidence td {
+    padding: 12px 15px;
+  }
+  
+  table.incidence th:first-child,
+  table.incidence td:first-child {
+    padding: 12px 15px;
+    width: 14%;
+    text-align: left;
+  }
+  
+  table.incidence tbody tr {
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+  }
+  
+  table.incidence tbody tr:nth-of-type(even) {
+    background-color: #f7f7f7;
+  }
+  
+  table.incidence tbody tr:hover {
+  background-color: #f3f3f3;
+  cursor: default;
+  }
+  
+  table.incidence tbody tr:last-of-type {
+    border-bottom: 2px solid #007598;
+  }
+  
+  /*=======================================*/
+  /*=======================================*/
+  table.basic {
+    border-collapse: collapse;
+    font-size: 14px;
+    width: 100%;
+    line-height: 20px;
+  }
+  
+  
+  table.basic thead tr.head {
+    background-color: #007598;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bolder;
+    box-shadow: 0 0 0 0;
+  }
+  
+  table.basic thead tr {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-top: 2px solid #007598;
+    color: black;
+    text-align: left;
+    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.6);
+  }
+  
+  table.basic thead tr th {
+    font-weight: bolder;
+  }
+  
+  table.basic th,
+  table.basic td {
+    padding: 12px 15px;
+  }
+  
+  table.basic th:first-child,
+  table.basic td:first-child {
+    padding: 12px 15px;
+    width: 15%;
+  }
+  
+  table.basic tbody tr {
+    border-bottom: 1px solid #c0c0c0;
+  }
+  
+  table.basic tbody tr:nth-of-type(even) {
+    background-color: #f7f7f7;
+  }
+  
+  table.basic tbody tr:hover {
+  background-color: #f3f3f3;
+  cursor: default;
+  }
+  
+  table.basic tbody tr:last-of-type {
+    border-bottom: 2px solid #007598;
+  }
+  
+  /*
+  .basic tbody tr.active-row {
+    font-weight: bold;
+    color: #68a2a8;
+  }
+  */
+  
+  
+  /*==============================*/
+  /*==============================*/
+  
+  table.md_basic_2 {
+    border-collapse: collapse;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  table.md_basic_2 thead tr {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: black;
+    text-align: left;
+    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.6);
+  }
+  
+  table.md_basic_2 thead tr.header {
+    background-color: #68a2a8;
+    color: white;
+    font-weight:bold;
+    text-align: left;
+  }
+  
+  table.md_basic_2 thead tr.contents {
+    background-color: white;
+    color: black;
+    text-align: left;
+  }
+  
+  table.md_basic_2 th,
+  table.md_basic_2 td {
+    padding: 12px 15px;
+  }
+  
+  table.md_basic_2 th:first-child,
+  table.md_basic_2 td:first-child {
+    padding: 12px 15px;
+  }
+  
+  table.md_basic_2 tbody tr {
+    border-bottom: 0.2px solid #c0c0c0;
+    text-align: left;
+  }
+  
+  table.md_basic_2 tbody tr.blank {
+    border-top: 0.2px solid #c0c0c0;
+    border-bottom: 0.2px solid #c0c0c0;
+    background-color: white;
+    pointer-events: none;
+    text-align: left;
+  }
+  
+  table.md_basic_2 tbody tr td.term {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  
+  table.md_basic_2 tbody tr:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.md_basic_2 tbody tr:last-of-type {
+    border-bottom: 1.5px solid #68a2a8;
+  }
+  
+  table.md_basic_2 tbody tr.last {
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.25);
+  }
+  
+  
+  
+  /*=======================================*/
+  /*=======================================*/
+  
+  
+  table.entry {
+    width: 100%;
+    vertical-align: middle;
+    text-align: left;
+    font-size: 0.65rem;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+  }
+  
+  table.entry thead tr:first-child {
+    background: #ed1c40;
+    color: #fff;
+  }
+  
+  table.entry thead tr.header:first-child th {
+    font-weight: bolder;
+    border-bottom: 2px solid white;
+  }
+  
+  table.entry thead td {
+    border-bottom: 1px solid #ddd;
+    padding-right: 10px;
+  }
+  
+  table.entry th:first-child,
+  table.entry td:first-child {
+    padding: 0 15px 0 20px;
+  }
+  
+  table.entry tbody tr:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.entry tbody td {
+    border-bottom: 1px solid #ddd;
+    padding-right: 10px;
+  }
+  
+  table.entry thead tr.blank td {
+    line-height: 30px;
+    border-top: 1px solid gray;
+    border-bottom: transparent;
+  }
+  
+  table.entry tbody tr.note td:first-child {
+    line-height: 30px;
+    background-color: #f2f2f2;
+    font-weight: 500;
+    border-bottom: 3px solid #ddd;
+  }
+  
+  table.entry tbody tr td {
+    line-height: 30px;
+    border-top: 1px solid #f2f2f2;
+    padding: 10px 15px 0 20px;
+  }
+  
+  
+  table.entry tbody tr.footer td {
+    border-bottom: 1px solid gray;
+  }
+  
+  
+  /*==============================*/
+  /*==============================*/
+  
+  
+  table.classification {
+    text-align: left;
+    font-size: 0.65rem;
+    line-height: 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid transparent;
+    width: 100%;
+    margin: 50px auto;
+    border-radius: .25rem;
+  }
+  
+  table.classification thead tr.header:first-child {
+    background: #ed1c40;
+    color: #fff;
+  }
+  
+  table.classification thead tr.header:first-child th {
+    font-weight: bolder;
+    border-bottom: 2px solid white;
+  }
+  
+  table.classification thead tr:last-child {
+    background: gray;
+    color: #fff;
+    line-height: 30px;
+  }
+  
+  table.classification th:first-child,
+  table.classification td:first-child {
+    vertical-align: middle;
+    padding: 0 15px 0 20px;
+  }
+  
+  table.classification th {
+    font-weight: 500;
+  }
+  
+  table.classification thead tr:last-child th:first-child {
+    border-bottom: 3px solid #ddd;
+    text-align: left;
+    vertical-align: middle;
+  }
+  
+  table.classification thead tr:last-child th:last-child {
+    border-bottom: 3px solid #ddd;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 10px;
+  }
+  
+  table.classification tbody tr:hover:not(.blank)  {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.classification tbody td {
+    vertical-align: middle;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table.classification td:last-child {
+    text-align: right;
+    vertical-align:middle;
+    padding: 5px 20px 5px 0;
+  }
+  
+  table.classification tbody tr.blank td {
+    line-height: 30px;
+    border-top: 1px solid gray;
+    border-bottom: transparent;
+    vertical-align: middle;
+  }
+  
+  table.classification tbody tr.note td:first-child {
+    line-height: 30px;
+    background-color: #f2f2f2;
+    font-weight: 500;
+    text-align: left;
+    vertical-align: middle;
+    border-bottom: 3px solid #ddd;
+  }
+  
+  table.classification tbody tr td {
+    line-height: 25px;
+    text-align: left;
+    vertical-align: middle;
+    border-top: 1px solid #f2f2f2;
+    padding: 10px 15px 0 20px
+  }
+  
+  table.classification tbody.note tr td {
+    line-height: 30px;
+    text-align: left;
+    vertical-align: middle;
+    border-top: 1px solid #f2f2f2;
+    padding: 0 15px 0 20px;
+  }
+  
+  table.classification tbody tr.footer td {
+    border-bottom: 1px solid gray;
+    padding: 0 0 0 0;
+  }
+  
+  /*==============================*/
+  /*==============================*/
+  
+  table.note {
+    text-align: left;
+    line-height: 30px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid transparent;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: .25rem;
+    border: hidden;
+  }
+  
+  table.note thead tr {
+    background-color: #f2f2f2;
+  }
+  
+  table.note th:first-child,
+  table.note td:first-child {
+    padding: 0 15px 0 20px;
+  }
+  
+  table.note th {
+    font-weight: 500;
+  }
+  
+  table.note thead tr:last-child th:first-child {
+    border-bottom: 3px solid #ddd;
+    text-align: left;
+  }
+  
+  table.note tbody tr:hover:not(.blank) {
+    background-color: #f2f2f2;
+    cursor: default;
+  }
+  
+  table.note tbody td {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table.note tbody tr.footer td {
+    border-bottom: 1px solid gray;
+  }
+  
+  /*==============================*/
+  /*==============================*/
+  
+  table.definition {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.65rem;
+    width: 100%;
+  }
+  
+  table.definition thead tr.score {
+    background-color: #68a2a8;
+    color: #ffffff;
+    text-align: left;
+    box-shadow: 0 0 0 0;
+  }
+  
+  table.definition thead tr.score td {
+    font-weight: bolder;
+  }
+  
+  table.definition thead tr {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: black;
+    text-align: left;
+    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.2);
+  }
+  
+  table.definition thead tr th {
+    font-weight: bolder;
+  }
+  
+  table.definition th,
+  table.definition td {
+    padding: 12px 15px;
+  }
+  
+  table.definition th:first-child,
+  table.definition td:first-child {
+    padding: 12px 15px;
+    width: 25%;
+  }
+  
+  table.definition tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  table.definition tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  table.definition tbody tr:hover {
+  background-color: #f2f2f2;
+  cursor: default;
+  }
+  
+  table.definition tbody tr:last-of-type {
+    border-bottom: 2px solid #68a2a8;
+  }
+  
+  /*
+  .definition tbody tr.active-row {
+    font-weight: bold;
+    color: #68a2a8;
+  }
+  */
+  
+  
+  
+  table.definition_sle {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.65 rem;
+    min-width: 400px;
+    width: 100%;
+    line-height: 20px;
+  }
+  
+  
+  table.definition_sle thead tr.score {
+    background-color: #68a2a8;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  box-shadow: 0 0 0 0;
+  }
+  
+  table.definition_sle thead tr:last-child {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: black;
+    text-align: left;
+  font-weight: bolder;
+  box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.2);
+  }
+  
+  table.definition_sle th,
+  table.definition_sle td {
+    padding: 12px 15px;
+  
+  }
+  
+  table.definition_sle th:first-child,
+  table.definition_sle td:first-child {
+    padding: 12px 15px;
+  }
+  
+  table.definition_sle tbody tr {
+    border-bottom: 1px solid #dddddd;
+  
+  }
+  
+  /*
+  table.definition_sle tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  */
+  
+  table.definition_sle tbody tr:hover {
+  background-color: #f2f2f2;
+  cursor: default;
+  }
+  
+  table.definition_sle tbody tr:last-of-type {
+    border-bottom: 2px solid #68a2a8;
+  }
+  
+  table.definition_sle tbody tr.active-row {
+    background-color: azure;
+    font-weight: bold;
+    color: #009879;
+  }
+  */
