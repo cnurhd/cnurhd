@@ -23,18 +23,6 @@
 }
 
 
-
-/* scrollbar 설정 */
-
-::-webkit-scrollbar {
-  display:transparent;
-}
-
-::-webkit-scrollbar-thumb {
-  background-color: hsla(0, 0%, 42%, 0.49);
-  border-radius: 100px;
-}
-
 body {
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
@@ -45,12 +33,15 @@ body {
   margin-right: 15px;
 }
 
+/* 스크롤바 설정 */
+
+
 
 /* grid_width 설정 */
 
 .md-grid {
     align-content: center;
-    max-width: 65rem;
+    max-width: 70rem;
 }
 
 .md-container {
@@ -65,7 +56,7 @@ body {
 }
 
 .md-sidebar--primary {
-    max-width: 60rem
+    max-width: 58rem
 }
 
 .md-sidebar--secondary {
