@@ -33,9 +33,6 @@ body {
   margin-right: 15px;
 }
 
-/* 스크롤바 설정 */
-
-
 
 /* grid_width 설정 */
 
@@ -67,6 +64,24 @@ body {
     margin-left: 0.1rem
 }
 
+
+  /* 스크롤바 너비 조절하는 부분 */
+
+.md-sidebar__scrollwrap::-webkit-scrollbar,
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  overflow:auto;
+  border-radius: 3px;
+  width: 5px;
+  background: #f8f8fa; 
+}
+
+.md-sidebar__scrollwrap:hover::-webkit-scrollbar {
+  background: #f8f8f8; 
+}
+
+.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb {
+  background: #8b8b8b; 
+}
 
 /* 위메뉴 설정 */
 .md-tabs__link{
