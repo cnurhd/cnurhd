@@ -236,67 +236,67 @@ body {
   font-size: 11.5px;
   font-weight : 400;
 }
-==================================================================
+
 /* table css */
 /*==============================*/
 /*==============================*/
 
 table.incidence {
-    border-collapse: collapse;
-    width: 100%;
-    font-size: 0.65rem;
-    line-height: 15px;
-  }
-  
-  table.incidence thead tr.head {
-    background-color: #007598;
-    color: #ffffff;
-    text-align: left;
-    font-weight: bold;
-    box-shadow: 0 0 0 0;
-  }
-  
-  table.incidence thead tr {
-    background-color: rgba(0, 0, 0, 0.1);
-    border-top: 2px solid #007598;
-    color: black;
-    text-align: center;
-    box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.6);
-  }
-  
-  table.incidence thead tr th {
-    font-weight: bolder;
-  }
-  
-  table.incidence th,
-  table.incidence td {
-    padding: 12px 15px;
-  }
-  
-  table.incidence th:first-child,
-  table.incidence td:first-child {
-    padding: 12px 15px;
-    width: 14%;
-    text-align: left;
-  }
-  
-  table.incidence tbody tr {
-    border-bottom: 1px solid #dddddd;
-    text-align: center;
-  }
-  
-  table.incidence tbody tr:nth-of-type(even) {
-    background-color: #f7f7f7;
-  }
-  
-  table.incidence tbody tr:hover {
-  background-color: #f3f3f3;
-  cursor: default;
-  }
-  
-  table.incidence tbody tr:last-of-type {
-    border-bottom: 2px solid #007598;
-  }
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.65rem;
+  line-height: 15px;
+}
+
+table.incidence thead tr.head {
+  background-color: #007598;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+  box-shadow: 0 0 0 0;
+}
+
+table.incidence thead tr {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-top: 2px solid #007598;
+  color: black;
+  text-align: center;
+  box-shadow: 0 4px 4px -4px rgba(0, 0, 0, 0.6);
+}
+
+table.incidence thead tr th {
+  font-weight: bolder;
+}
+
+table.incidence th,
+table.incidence td {
+  padding: 12px 15px;
+}
+
+table.incidence th:first-child,
+table.incidence td:first-child {
+  padding: 12px 15px;
+  width: 14%;
+  text-align: left;
+}
+
+table.incidence tbody tr {
+  border-bottom: 1px solid #dddddd;
+  text-align: center;
+}
+
+table.incidence tbody tr:nth-of-type(even) {
+  background-color: #f7f7f7;
+}
+
+table.incidence tbody tr:hover {
+background-color: #f3f3f3;
+cursor: default;
+}
+
+table.incidence tbody tr:last-of-type {
+  border-bottom: 2px solid #007598;
+}
   
   /*=======================================*/
   /*=======================================*/
